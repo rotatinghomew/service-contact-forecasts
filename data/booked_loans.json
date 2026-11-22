@@ -1,0 +1,38 @@
+[
+  {
+    "loan": "L1",
+    "member": "P2",
+    "day": "2026-08-17",
+    "slot": 3,
+    "recipient": "港口",
+    "state": "已接受",
+    "known": "2026-08-15"
+  },
+  {
+    "loan": "L2",
+    "member": "P6",
+    "day": "2026-08-17",
+    "slot": 3,
+    "recipient": "芦湾酒店",
+    "state": "已接受",
+    "known": "2026-08-15"
+  },
+  {
+    "loan": "L2",
+    "member": "P6",
+    "day": "2026-08-17",
+    "slot": 3,
+    "recipient": "芦湾酒店",
+    "state": "供给窗口关闭待交接",
+    "known": "2026-08-16"
+  },
+  {
+    "loan": "L3",
+    "member": "P4",
+    "day": "2026-08-17",
+    "slot": 2,
+    "recipient": "老城馆",
+    "state": "待接受",
+    "known": "2026-08-15"
+  }
+]

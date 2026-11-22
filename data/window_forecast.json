@@ -1,0 +1,44 @@
+[
+  {
+    "day": "2026-08-15",
+    "day_type": "节期集散",
+    "condition": "排班公示",
+    "announced": "2026-08-14"
+  },
+  {
+    "day": "2026-08-16",
+    "day_type": "常日",
+    "condition": "排班公示",
+    "announced": "2026-08-14"
+  },
+  {
+    "day": "2026-08-17",
+    "day_type": "节期集散",
+    "condition": "船班相近",
+    "announced": "2026-08-14"
+  },
+  {
+    "day": "2026-08-18",
+    "day_type": "常日",
+    "condition": "排班公示",
+    "announced": "2026-08-14"
+  },
+  {
+    "day": "2026-08-19",
+    "day_type": "常日",
+    "condition": "排班公示",
+    "announced": "2026-08-14"
+  },
+  {
+    "day": "2026-08-20",
+    "day_type": "常日",
+    "condition": "排班公示",
+    "announced": "2026-08-14"
+  },
+  {
+    "day": "2026-08-21",
+    "day_type": "节期集散",
+    "condition": "排班公示",
+    "announced": "2026-08-14"
+  }
+]

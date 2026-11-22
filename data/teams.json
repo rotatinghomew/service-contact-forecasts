@@ -1,0 +1,1472 @@
+[
+  {
+    "member": "P1",
+    "day": "2026-08-15",
+    "home": "港口",
+    "slot": 0,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-15",
+    "home": "港口",
+    "slot": 2,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-15",
+    "home": "港口",
+    "slot": 3,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-15",
+    "home": "滨海馆",
+    "slot": 1,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-15",
+    "home": "滨海馆",
+    "slot": 2,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-15",
+    "home": "滨海馆",
+    "slot": 3,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-15",
+    "home": "芦湾酒店",
+    "slot": 0,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-15",
+    "home": "芦湾酒店",
+    "slot": 1,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-15",
+    "home": "芦湾酒店",
+    "slot": 2,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-15",
+    "home": "老城馆",
+    "slot": 0,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-15",
+    "home": "老城馆",
+    "slot": 1,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-15",
+    "home": "老城馆",
+    "slot": 3,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 110,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-15",
+    "home": "港口",
+    "slot": 0,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-15",
+    "home": "港口",
+    "slot": 2,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-15",
+    "home": "港口",
+    "slot": 3,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-15",
+    "home": "滨海馆",
+    "slot": 1,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-15",
+    "home": "滨海馆",
+    "slot": 2,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-15",
+    "home": "滨海馆",
+    "slot": 3,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-16",
+    "home": "港口",
+    "slot": 1,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-16",
+    "home": "港口",
+    "slot": 2,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-16",
+    "home": "港口",
+    "slot": 3,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-16",
+    "home": "滨海馆",
+    "slot": 0,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-16",
+    "home": "滨海馆",
+    "slot": 1,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-16",
+    "home": "滨海馆",
+    "slot": 2,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-16",
+    "home": "芦湾酒店",
+    "slot": 0,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-16",
+    "home": "芦湾酒店",
+    "slot": 1,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-16",
+    "home": "芦湾酒店",
+    "slot": 3,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-16",
+    "home": "老城馆",
+    "slot": 0,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-16",
+    "home": "老城馆",
+    "slot": 2,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-16",
+    "home": "老城馆",
+    "slot": 3,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-16",
+    "home": "港口",
+    "slot": 1,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-16",
+    "home": "港口",
+    "slot": 2,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-16",
+    "home": "港口",
+    "slot": 3,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-16",
+    "home": "滨海馆",
+    "slot": 0,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-16",
+    "home": "滨海馆",
+    "slot": 1,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-16",
+    "home": "滨海馆",
+    "slot": 2,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-17",
+    "home": "港口",
+    "slot": 0,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-17",
+    "home": "港口",
+    "slot": 1,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-17",
+    "home": "港口",
+    "slot": 2,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-17",
+    "home": "滨海馆",
+    "slot": 0,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-17",
+    "home": "滨海馆",
+    "slot": 1,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-17",
+    "home": "滨海馆",
+    "slot": 3,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 110,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-17",
+    "home": "芦湾酒店",
+    "slot": 0,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-17",
+    "home": "芦湾酒店",
+    "slot": 2,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-17",
+    "home": "芦湾酒店",
+    "slot": 3,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-17",
+    "home": "老城馆",
+    "slot": 1,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-17",
+    "home": "老城馆",
+    "slot": 2,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-17",
+    "home": "老城馆",
+    "slot": 3,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-17",
+    "home": "港口",
+    "slot": 0,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-17",
+    "home": "港口",
+    "slot": 1,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-17",
+    "home": "港口",
+    "slot": 2,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-17",
+    "home": "滨海馆",
+    "slot": 0,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-17",
+    "home": "滨海馆",
+    "slot": 1,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-17",
+    "home": "滨海馆",
+    "slot": 3,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-18",
+    "home": "港口",
+    "slot": 0,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-18",
+    "home": "港口",
+    "slot": 1,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-18",
+    "home": "港口",
+    "slot": 3,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-18",
+    "home": "滨海馆",
+    "slot": 0,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-18",
+    "home": "滨海馆",
+    "slot": 2,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-18",
+    "home": "滨海馆",
+    "slot": 3,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-18",
+    "home": "芦湾酒店",
+    "slot": 1,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-18",
+    "home": "芦湾酒店",
+    "slot": 2,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-18",
+    "home": "芦湾酒店",
+    "slot": 3,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-18",
+    "home": "老城馆",
+    "slot": 0,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-18",
+    "home": "老城馆",
+    "slot": 1,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-18",
+    "home": "老城馆",
+    "slot": 2,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-18",
+    "home": "港口",
+    "slot": 0,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-18",
+    "home": "港口",
+    "slot": 1,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-18",
+    "home": "港口",
+    "slot": 3,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-18",
+    "home": "滨海馆",
+    "slot": 0,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-18",
+    "home": "滨海馆",
+    "slot": 2,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-18",
+    "home": "滨海馆",
+    "slot": 3,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-19",
+    "home": "港口",
+    "slot": 0,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-19",
+    "home": "港口",
+    "slot": 2,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-19",
+    "home": "港口",
+    "slot": 3,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-19",
+    "home": "滨海馆",
+    "slot": 1,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-19",
+    "home": "滨海馆",
+    "slot": 2,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-19",
+    "home": "滨海馆",
+    "slot": 3,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-19",
+    "home": "芦湾酒店",
+    "slot": 0,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-19",
+    "home": "芦湾酒店",
+    "slot": 1,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-19",
+    "home": "芦湾酒店",
+    "slot": 2,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-19",
+    "home": "老城馆",
+    "slot": 0,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-19",
+    "home": "老城馆",
+    "slot": 1,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-19",
+    "home": "老城馆",
+    "slot": 3,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-19",
+    "home": "港口",
+    "slot": 0,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-19",
+    "home": "港口",
+    "slot": 2,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-19",
+    "home": "港口",
+    "slot": 3,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-19",
+    "home": "滨海馆",
+    "slot": 1,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-19",
+    "home": "滨海馆",
+    "slot": 2,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-19",
+    "home": "滨海馆",
+    "slot": 3,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-20",
+    "home": "港口",
+    "slot": 1,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-20",
+    "home": "港口",
+    "slot": 2,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-20",
+    "home": "港口",
+    "slot": 3,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-20",
+    "home": "滨海馆",
+    "slot": 0,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-20",
+    "home": "滨海馆",
+    "slot": 1,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-20",
+    "home": "滨海馆",
+    "slot": 2,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-20",
+    "home": "芦湾酒店",
+    "slot": 0,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-20",
+    "home": "芦湾酒店",
+    "slot": 1,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-20",
+    "home": "芦湾酒店",
+    "slot": 3,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-20",
+    "home": "老城馆",
+    "slot": 0,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-20",
+    "home": "老城馆",
+    "slot": 2,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-20",
+    "home": "老城馆",
+    "slot": 3,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-20",
+    "home": "港口",
+    "slot": 1,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-20",
+    "home": "港口",
+    "slot": 2,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-20",
+    "home": "港口",
+    "slot": 3,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 110,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-20",
+    "home": "滨海馆",
+    "slot": 0,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-20",
+    "home": "滨海馆",
+    "slot": 1,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-20",
+    "home": "滨海馆",
+    "slot": 2,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-21",
+    "home": "港口",
+    "slot": 0,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-21",
+    "home": "港口",
+    "slot": 1,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P1",
+    "day": "2026-08-21",
+    "home": "港口",
+    "slot": 2,
+    "skills": [
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-21",
+    "home": "滨海馆",
+    "slot": 0,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-21",
+    "home": "滨海馆",
+    "slot": 1,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P2",
+    "day": "2026-08-21",
+    "home": "滨海馆",
+    "slot": 3,
+    "skills": [
+      "英语",
+      "粤语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-21",
+    "home": "芦湾酒店",
+    "slot": 0,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-21",
+    "home": "芦湾酒店",
+    "slot": 2,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P3",
+    "day": "2026-08-21",
+    "home": "芦湾酒店",
+    "slot": 3,
+    "skills": [
+      "普通话",
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-21",
+    "home": "老城馆",
+    "slot": 1,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-21",
+    "home": "老城馆",
+    "slot": 2,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 150,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P4",
+    "day": "2026-08-21",
+    "home": "老城馆",
+    "slot": 3,
+    "skills": [
+      "普通话",
+      "粤语"
+    ],
+    "minutes": 110,
+    "lend": "本地专用"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-21",
+    "home": "港口",
+    "slot": 0,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-21",
+    "home": "港口",
+    "slot": 1,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P5",
+    "day": "2026-08-21",
+    "home": "港口",
+    "slot": 2,
+    "skills": [
+      "普通话"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-21",
+    "home": "滨海馆",
+    "slot": 0,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-21",
+    "home": "滨海馆",
+    "slot": 1,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 150,
+    "lend": "可借"
+  },
+  {
+    "member": "P6",
+    "day": "2026-08-21",
+    "home": "滨海馆",
+    "slot": 3,
+    "skills": [
+      "粤语",
+      "英语"
+    ],
+    "minutes": 110,
+    "lend": "可借"
+  }
+]

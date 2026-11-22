@@ -1,0 +1,30 @@
+[
+  {
+    "site": "港口",
+    "skill": "英语",
+    "slot": 3,
+    "wait_cap": 22,
+    "coverage": 0.85
+  },
+  {
+    "site": "芦湾酒店",
+    "skill": "粤语",
+    "slot": 3,
+    "wait_cap": 25,
+    "coverage": 0.9
+  },
+  {
+    "site": "老城馆",
+    "skill": "普通话",
+    "slot": 2,
+    "wait_cap": 27,
+    "coverage": 0.9
+  },
+  {
+    "site": "全区",
+    "skill": "英语",
+    "slot": 2,
+    "wait_cap": 18,
+    "coverage": 0.8
+  }
+]

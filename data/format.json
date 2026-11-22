@@ -1,0 +1,70 @@
+{
+  "fields": {
+    "coverage": [
+      "window",
+      "day",
+      "site",
+      "slot",
+      "day_type",
+      "covered",
+      "estimated_rate",
+      "known"
+    ],
+    "contacts": [
+      "event",
+      "thread",
+      "window",
+      "site",
+      "skill",
+      "kind",
+      "at",
+      "duration",
+      "known"
+    ],
+    "teams": [
+      "member",
+      "day",
+      "home",
+      "slot",
+      "skills",
+      "minutes",
+      "lend"
+    ],
+    "window_forecast": [
+      "day",
+      "day_type",
+      "condition",
+      "announced"
+    ],
+    "guarantees": [
+      "site",
+      "skill",
+      "slot",
+      "wait_cap",
+      "coverage"
+    ],
+    "booked_loans": [
+      "loan",
+      "member",
+      "day",
+      "slot",
+      "recipient",
+      "state",
+      "known"
+    ]
+  },
+  "references": [
+    [
+      "contacts",
+      "window",
+      "coverage",
+      "window"
+    ],
+    [
+      "booked_loans",
+      "member",
+      "teams",
+      "member"
+    ]
+  ]
+}
