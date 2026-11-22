@@ -21,6 +21,21 @@
       "duration",
       "known"
     ],
+    "handoff_ack": [
+      "thread",
+      "origin",
+      "destination",
+      "offered",
+      "accepted",
+      "known",
+      "state"
+    ],
+    "replay_windows": [
+      "day",
+      "last_reply",
+      "accept_minutes",
+      "candidate"
+    ],
     "teams": [
       "member",
       "day",
@@ -30,7 +45,7 @@
       "minutes",
       "lend"
     ],
-    "window_forecast": [
+    "dispatch_calendar": [
       "day",
       "day_type",
       "condition",
@@ -65,6 +80,12 @@
       "member",
       "teams",
       "member"
+    ],
+    [
+      "handoff_ack",
+      "thread",
+      "contacts",
+      "thread"
     ]
   ]
 }

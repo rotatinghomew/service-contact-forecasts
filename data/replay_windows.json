@@ -1,0 +1,86 @@
+[
+  {
+    "day": "2026-08-01",
+    "last_reply": 1170,
+    "accept_minutes": 18,
+    "candidate": false
+  },
+  {
+    "day": "2026-08-02",
+    "last_reply": 1200,
+    "accept_minutes": 18,
+    "candidate": true
+  },
+  {
+    "day": "2026-08-03",
+    "last_reply": 1200,
+    "accept_minutes": 12,
+    "candidate": true
+  },
+  {
+    "day": "2026-08-04",
+    "last_reply": 1200,
+    "accept_minutes": 18,
+    "candidate": true
+  },
+  {
+    "day": "2026-08-05",
+    "last_reply": 1200,
+    "accept_minutes": 18,
+    "candidate": true
+  },
+  {
+    "day": "2026-08-06",
+    "last_reply": 1200,
+    "accept_minutes": 12,
+    "candidate": true
+  },
+  {
+    "day": "2026-08-07",
+    "last_reply": 1170,
+    "accept_minutes": 18,
+    "candidate": true
+  },
+  {
+    "day": "2026-08-08",
+    "last_reply": 1170,
+    "accept_minutes": 18,
+    "candidate": true
+  },
+  {
+    "day": "2026-08-09",
+    "last_reply": 1200,
+    "accept_minutes": 12,
+    "candidate": true
+  },
+  {
+    "day": "2026-08-10",
+    "last_reply": 1200,
+    "accept_minutes": 18,
+    "candidate": true
+  },
+  {
+    "day": "2026-08-11",
+    "last_reply": 1200,
+    "accept_minutes": 18,
+    "candidate": true
+  },
+  {
+    "day": "2026-08-12",
+    "last_reply": 1200,
+    "accept_minutes": 12,
+    "candidate": true
+  },
+  {
+    "day": "2026-08-13",
+    "last_reply": 1200,
+    "accept_minutes": 18,
+    "candidate": true
+  },
+  {
+    "day": "2026-08-14",
+    "last_reply": 1170,
+    "accept_minutes": 18,
+    "candidate": true
+  }
+]
