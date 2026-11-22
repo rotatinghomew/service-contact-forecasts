@@ -57,7 +57,7 @@
     "thread": "C000300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-06-03",
     "state": "待认领"
@@ -147,7 +147,7 @@
     "thread": "C001300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-06-03",
     "state": "待认领"
@@ -237,7 +237,7 @@
     "thread": "C002300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-06-03",
     "state": "待认领"
@@ -318,7 +318,7 @@
     "thread": "C003300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-06-03",
     "state": "待认领"
@@ -390,8 +390,8 @@
     "thread": "C010300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-04",
     "state": "已认领"
   },
@@ -480,8 +480,8 @@
     "thread": "C011300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-04",
     "state": "已认领"
   },
@@ -570,8 +570,8 @@
     "thread": "C012300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-04",
     "state": "已认领"
   },
@@ -651,8 +651,8 @@
     "thread": "C013300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-04",
     "state": "已认领"
   },
@@ -723,8 +723,8 @@
     "thread": "C020300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-05",
     "state": "已认领"
   },
@@ -813,8 +813,8 @@
     "thread": "C021300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-05",
     "state": "已认领"
   },
@@ -894,8 +894,8 @@
     "thread": "C022300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-05",
     "state": "已认领"
   },
@@ -975,8 +975,8 @@
     "thread": "C023300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-05",
     "state": "已认领"
   },
@@ -1047,8 +1047,8 @@
     "thread": "C030300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-06",
     "state": "已认领"
   },
@@ -1128,8 +1128,8 @@
     "thread": "C031300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-06",
     "state": "已认领"
   },
@@ -1182,8 +1182,8 @@
     "thread": "C032300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-06",
     "state": "已认领"
   },
@@ -1254,8 +1254,8 @@
     "thread": "C033300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-06",
     "state": "已认领"
   },
@@ -1344,8 +1344,8 @@
     "thread": "C040300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-06-07",
     "state": "已认领"
   },
@@ -1371,8 +1371,8 @@
     "thread": "C040312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1035,
+    "offered": 1183,
+    "accepted": 1188,
     "known": "2026-06-05",
     "state": "已认领"
   },
@@ -1452,8 +1452,8 @@
     "thread": "C041300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-06-07",
     "state": "已认领"
   },
@@ -1472,6 +1472,15 @@
     "destination": "芦湾酒店",
     "offered": 1031,
     "accepted": 1032,
+    "known": "2026-06-05",
+    "state": "已认领"
+  },
+  {
+    "thread": "C041312",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1183,
+    "accepted": 1188,
     "known": "2026-06-05",
     "state": "已认领"
   },
@@ -1521,15 +1530,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C042108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 672,
-    "known": "2026-06-05",
-    "state": "已认领"
-  },
-  {
     "thread": "C042200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -1557,11 +1557,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C042212",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 850,
+    "accepted": 855,
+    "known": "2026-06-05",
+    "state": "已认领"
+  },
+  {
     "thread": "C042300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-06-07",
     "state": "已认领"
   },
@@ -1598,15 +1607,6 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 495,
-    "known": "2026-06-05",
-    "state": "已认领"
-  },
-  {
-    "thread": "C043008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 492,
     "known": "2026-06-05",
     "state": "已认领"
   },
@@ -1656,20 +1656,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C043212",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 850,
-    "accepted": 855,
-    "known": "2026-06-05",
-    "state": "已认领"
-  },
-  {
     "thread": "C043300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-06-07",
     "state": "已认领"
   },
@@ -1688,15 +1679,6 @@
     "destination": "港口",
     "offered": 1031,
     "accepted": 1032,
-    "known": "2026-06-05",
-    "state": "已认领"
-  },
-  {
-    "thread": "C043312",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1030,
-    "accepted": 1035,
     "known": "2026-06-05",
     "state": "已认领"
   },
@@ -1776,8 +1758,8 @@
     "thread": "C050300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-06-08",
     "state": "已认领"
   },
@@ -1803,8 +1785,8 @@
     "thread": "C050312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1036,
+    "offered": 1183,
+    "accepted": 1189,
     "known": "2026-06-06",
     "state": "已认领"
   },
@@ -1884,8 +1866,8 @@
     "thread": "C051300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-06-08",
     "state": "已认领"
   },
@@ -1926,6 +1908,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C052008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 493,
+    "known": "2026-06-06",
+    "state": "已认领"
+  },
+  {
     "thread": "C052100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -1940,6 +1931,15 @@
     "destination": "老城馆",
     "offered": 672,
     "accepted": 676,
+    "known": "2026-06-06",
+    "state": "已认领"
+  },
+  {
+    "thread": "C052108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 673,
     "known": "2026-06-06",
     "state": "已认领"
   },
@@ -1971,20 +1971,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C052212",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 850,
-    "accepted": 856,
-    "known": "2026-06-06",
-    "state": "已认领"
-  },
-  {
     "thread": "C052300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-06-08",
     "state": "已认领"
   },
@@ -2034,6 +2025,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C053104",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 672,
+    "accepted": 676,
+    "known": "2026-06-06",
+    "state": "已认领"
+  },
+  {
     "thread": "C053200",
     "origin": "老城馆",
     "destination": "港口",
@@ -2064,8 +2064,8 @@
     "thread": "C053300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-06-08",
     "state": "已认领"
   },
@@ -2084,15 +2084,6 @@
     "destination": "港口",
     "offered": 1031,
     "accepted": 1033,
-    "known": "2026-06-06",
-    "state": "已认领"
-  },
-  {
-    "thread": "C053312",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1030,
-    "accepted": 1036,
     "known": "2026-06-06",
     "state": "已认领"
   },
@@ -2154,8 +2145,8 @@
     "thread": "C060300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-09",
     "state": "已认领"
   },
@@ -2214,6 +2205,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C061108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 674,
+    "known": "2026-06-07",
+    "state": "已认领"
+  },
+  {
     "thread": "C061200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -2235,18 +2235,9 @@
     "thread": "C061300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-09",
-    "state": "已认领"
-  },
-  {
-    "thread": "C061304",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1032,
-    "accepted": 1037,
-    "known": "2026-06-07",
     "state": "已认领"
   },
   {
@@ -2295,6 +2286,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C062108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 674,
+    "known": "2026-06-07",
+    "state": "已认领"
+  },
+  {
     "thread": "C062200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -2316,8 +2316,8 @@
     "thread": "C062300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-09",
     "state": "已认领"
   },
@@ -2397,8 +2397,8 @@
     "thread": "C063300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-09",
     "state": "已认领"
   },
@@ -2466,11 +2466,20 @@
     "state": "拒接"
   },
   {
+    "thread": "C070208",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 851,
+    "accepted": 855,
+    "known": "2026-06-08",
+    "state": "已认领"
+  },
+  {
     "thread": "C070300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-10",
     "state": "已认领"
   },
@@ -2482,6 +2491,15 @@
     "accepted": null,
     "known": "2026-06-10",
     "state": "拒接"
+  },
+  {
+    "thread": "C070308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1035,
+    "known": "2026-06-08",
+    "state": "已认领"
   },
   {
     "thread": "C071000",
@@ -2520,6 +2538,15 @@
     "state": "拒接"
   },
   {
+    "thread": "C071108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 675,
+    "known": "2026-06-08",
+    "state": "已认领"
+  },
+  {
     "thread": "C071200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -2538,31 +2565,13 @@
     "state": "拒接"
   },
   {
-    "thread": "C071208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 855,
-    "known": "2026-06-08",
-    "state": "已认领"
-  },
-  {
     "thread": "C071300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-10",
     "state": "已认领"
-  },
-  {
-    "thread": "C071304",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1032,
-    "accepted": null,
-    "known": "2026-06-10",
-    "state": "拒接"
   },
   {
     "thread": "C072000",
@@ -2601,15 +2610,6 @@
     "state": "拒接"
   },
   {
-    "thread": "C072108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 675,
-    "known": "2026-06-08",
-    "state": "已认领"
-  },
-  {
     "thread": "C072200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -2631,8 +2631,8 @@
     "thread": "C072300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-10",
     "state": "已认领"
   },
@@ -2712,8 +2712,8 @@
     "thread": "C073300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-10",
     "state": "已认领"
   },
@@ -2725,6 +2725,15 @@
     "accepted": null,
     "known": "2026-06-10",
     "state": "拒接"
+  },
+  {
+    "thread": "C073308",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 1031,
+    "accepted": 1035,
+    "known": "2026-06-08",
+    "state": "已认领"
   },
   {
     "thread": "C080000",
@@ -2781,11 +2790,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C080208",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 851,
+    "accepted": 856,
+    "known": "2026-06-09",
+    "state": "已认领"
+  },
+  {
     "thread": "C080300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-11",
     "state": "已认领"
   },
@@ -2795,6 +2813,15 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1033,
+    "known": "2026-06-09",
+    "state": "已认领"
+  },
+  {
+    "thread": "C080308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1036,
     "known": "2026-06-09",
     "state": "已认领"
   },
@@ -2835,15 +2862,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C081108",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 671,
-    "accepted": 676,
-    "known": "2026-06-09",
-    "state": "已认领"
-  },
-  {
     "thread": "C081200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -2862,20 +2880,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C081208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 856,
-    "known": "2026-06-09",
-    "state": "已认领"
-  },
-  {
     "thread": "C081300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-11",
     "state": "已认领"
   },
@@ -2907,6 +2916,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C082008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 496,
+    "known": "2026-06-09",
+    "state": "已认领"
+  },
+  {
     "thread": "C082100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -2921,15 +2939,6 @@
     "destination": "老城馆",
     "offered": 672,
     "accepted": 673,
-    "known": "2026-06-09",
-    "state": "已认领"
-  },
-  {
-    "thread": "C082108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 676,
     "known": "2026-06-09",
     "state": "已认领"
   },
@@ -2955,8 +2964,8 @@
     "thread": "C082300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-11",
     "state": "已认领"
   },
@@ -3027,8 +3036,8 @@
     "thread": "C083300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-11",
     "state": "已认领"
   },
@@ -3038,15 +3047,6 @@
     "destination": "港口",
     "offered": 1032,
     "accepted": 1033,
-    "known": "2026-06-09",
-    "state": "已认领"
-  },
-  {
-    "thread": "C083308",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1031,
-    "accepted": 1036,
     "known": "2026-06-09",
     "state": "已认领"
   },
@@ -3105,11 +3105,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C090208",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 851,
+    "accepted": 857,
+    "known": "2026-06-10",
+    "state": "已认领"
+  },
+  {
     "thread": "C090300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-12",
     "state": "已认领"
   },
@@ -3119,15 +3128,6 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1034,
-    "known": "2026-06-10",
-    "state": "已认领"
-  },
-  {
-    "thread": "C090308",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1031,
-    "accepted": 1037,
     "known": "2026-06-10",
     "state": "已认领"
   },
@@ -3168,15 +3168,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C091108",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 671,
-    "accepted": 677,
-    "known": "2026-06-10",
-    "state": "已认领"
-  },
-  {
     "thread": "C091200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -3195,21 +3186,21 @@
     "state": "已认领"
   },
   {
-    "thread": "C091300",
+    "thread": "C091208",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1032,
-    "known": "2026-06-12",
+    "offered": 851,
+    "accepted": 857,
+    "known": "2026-06-10",
     "state": "已认领"
   },
   {
-    "thread": "C091304",
+    "thread": "C091300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1032,
-    "accepted": 1034,
-    "known": "2026-06-10",
+    "offered": 1158,
+    "accepted": 1162,
+    "known": "2026-06-12",
     "state": "已认领"
   },
   {
@@ -3227,6 +3218,15 @@
     "destination": "老城馆",
     "offered": 492,
     "accepted": 494,
+    "known": "2026-06-10",
+    "state": "已认领"
+  },
+  {
+    "thread": "C092008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 497,
     "known": "2026-06-10",
     "state": "已认领"
   },
@@ -3279,8 +3279,8 @@
     "thread": "C092300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-12",
     "state": "已认领"
   },
@@ -3360,8 +3360,8 @@
     "thread": "C093300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-12",
     "state": "已认领"
   },
@@ -3375,21 +3375,21 @@
     "state": "已认领"
   },
   {
+    "thread": "C093308",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 1031,
+    "accepted": 1037,
+    "known": "2026-06-10",
+    "state": "已认领"
+  },
+  {
     "thread": "C100000",
     "origin": "港口",
     "destination": "滨海馆",
     "offered": 488,
     "accepted": 493,
     "known": "2026-06-13",
-    "state": "已认领"
-  },
-  {
-    "thread": "C100004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": 495,
-    "known": "2026-06-11",
     "state": "已认领"
   },
   {
@@ -3432,8 +3432,8 @@
     "thread": "C100300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-06-13",
     "state": "已认领"
   },
@@ -3522,8 +3522,8 @@
     "thread": "C101300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-06-13",
     "state": "已认领"
   },
@@ -3555,15 +3555,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C102008",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 491,
-    "accepted": 492,
-    "known": "2026-06-11",
-    "state": "已认领"
-  },
-  {
     "thread": "C102100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -3582,6 +3573,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C102108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 672,
+    "known": "2026-06-11",
+    "state": "已认领"
+  },
+  {
     "thread": "C102200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -3591,20 +3591,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C102204",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 852,
-    "accepted": 855,
-    "known": "2026-06-11",
-    "state": "已认领"
-  },
-  {
     "thread": "C102300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-06-13",
     "state": "已认领"
   },
@@ -3632,6 +3623,15 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 495,
+    "known": "2026-06-11",
+    "state": "已认领"
+  },
+  {
+    "thread": "C103008",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 491,
+    "accepted": 492,
     "known": "2026-06-11",
     "state": "已认领"
   },
@@ -3675,8 +3675,8 @@
     "thread": "C103300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-06-13",
     "state": "已认领"
   },
@@ -3690,6 +3690,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C103308",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 1031,
+    "accepted": 1032,
+    "known": "2026-06-11",
+    "state": "已认领"
+  },
+  {
     "thread": "C110000",
     "origin": "港口",
     "destination": "滨海馆",
@@ -3697,6 +3706,15 @@
     "accepted": null,
     "known": "2026-06-14",
     "state": "拒接"
+  },
+  {
+    "thread": "C110004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 496,
+    "known": "2026-06-12",
+    "state": "已认领"
   },
   {
     "thread": "C110100",
@@ -3756,7 +3774,7 @@
     "thread": "C110300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-06-14",
     "state": "拒接"
@@ -3816,6 +3834,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C111108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 673,
+    "known": "2026-06-12",
+    "state": "已认领"
+  },
+  {
     "thread": "C111200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -3855,7 +3882,7 @@
     "thread": "C111300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-06-14",
     "state": "拒接"
@@ -3897,15 +3924,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C112008",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 491,
-    "accepted": 493,
-    "known": "2026-06-12",
-    "state": "已认领"
-  },
-  {
     "thread": "C112100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -3920,6 +3938,15 @@
     "destination": "老城馆",
     "offered": 672,
     "accepted": 676,
+    "known": "2026-06-12",
+    "state": "已认领"
+  },
+  {
+    "thread": "C112108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 673,
     "known": "2026-06-12",
     "state": "已认领"
   },
@@ -3954,7 +3981,7 @@
     "thread": "C112300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-06-14",
     "state": "拒接"
@@ -3978,6 +4005,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C112312",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 1183,
+    "accepted": 1189,
+    "known": "2026-06-12",
+    "state": "已认领"
+  },
+  {
     "thread": "C113000",
     "origin": "老城馆",
     "destination": "港口",
@@ -3992,15 +4028,6 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 496,
-    "known": "2026-06-12",
-    "state": "已认领"
-  },
-  {
-    "thread": "C113008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 493,
     "known": "2026-06-12",
     "state": "已认领"
   },
@@ -4053,7 +4080,7 @@
     "thread": "C113300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-06-14",
     "state": "拒接"
@@ -4077,21 +4104,21 @@
     "state": "已认领"
   },
   {
+    "thread": "C113312",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 1183,
+    "accepted": 1189,
+    "known": "2026-06-12",
+    "state": "已认领"
+  },
+  {
     "thread": "C120000",
     "origin": "港口",
     "destination": "滨海馆",
     "offered": 488,
     "accepted": 489,
     "known": "2026-06-15",
-    "state": "已认领"
-  },
-  {
-    "thread": "C120004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": 497,
-    "known": "2026-06-13",
     "state": "已认领"
   },
   {
@@ -4152,8 +4179,8 @@
     "thread": "C120300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-15",
     "state": "已认领"
   },
@@ -4179,17 +4206,8 @@
     "thread": "C120312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1031,
-    "known": "2026-06-13",
-    "state": "已认领"
-  },
-  {
-    "thread": "C120316",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1029,
-    "accepted": 1034,
+    "offered": 1183,
+    "accepted": 1184,
     "known": "2026-06-13",
     "state": "已认领"
   },
@@ -4269,8 +4287,8 @@
     "thread": "C121300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-15",
     "state": "已认领"
   },
@@ -4329,15 +4347,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C122108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 674,
-    "known": "2026-06-13",
-    "state": "已认领"
-  },
-  {
     "thread": "C122200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -4368,8 +4377,8 @@
     "thread": "C122300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-15",
     "state": "已认领"
   },
@@ -4388,15 +4397,6 @@
     "destination": "老城馆",
     "offered": 1031,
     "accepted": 1034,
-    "known": "2026-06-13",
-    "state": "已认领"
-  },
-  {
-    "thread": "C122312",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 1030,
-    "accepted": 1031,
     "known": "2026-06-13",
     "state": "已认领"
   },
@@ -4473,11 +4473,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C123212",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 850,
+    "accepted": 851,
+    "known": "2026-06-13",
+    "state": "已认领"
+  },
+  {
     "thread": "C123300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-15",
     "state": "已认领"
   },
@@ -4503,8 +4512,8 @@
     "thread": "C123312",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1030,
-    "accepted": 1031,
+    "offered": 1183,
+    "accepted": 1184,
     "known": "2026-06-13",
     "state": "已认领"
   },
@@ -4515,15 +4524,6 @@
     "offered": 488,
     "accepted": 490,
     "known": "2026-06-16",
-    "state": "已认领"
-  },
-  {
-    "thread": "C130004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": 498,
-    "known": "2026-06-14",
     "state": "已认领"
   },
   {
@@ -4566,8 +4566,8 @@
     "thread": "C130300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-16",
     "state": "已认领"
   },
@@ -4635,21 +4635,21 @@
     "state": "已认领"
   },
   {
-    "thread": "C131208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 855,
-    "known": "2026-06-14",
-    "state": "已认领"
-  },
-  {
     "thread": "C131300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-16",
+    "state": "已认领"
+  },
+  {
+    "thread": "C131304",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1032,
+    "accepted": 1038,
+    "known": "2026-06-14",
     "state": "已认领"
   },
   {
@@ -4667,6 +4667,15 @@
     "destination": "老城馆",
     "offered": 492,
     "accepted": 498,
+    "known": "2026-06-14",
+    "state": "已认领"
+  },
+  {
+    "thread": "C132008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 495,
     "known": "2026-06-14",
     "state": "已认领"
   },
@@ -4689,15 +4698,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C132108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 675,
-    "known": "2026-06-14",
-    "state": "已认领"
-  },
-  {
     "thread": "C132200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -4707,20 +4707,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C132204",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 852,
-    "accepted": 858,
-    "known": "2026-06-14",
-    "state": "已认领"
-  },
-  {
     "thread": "C132300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-16",
     "state": "已认领"
   },
@@ -4791,8 +4782,8 @@
     "thread": "C133300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-16",
     "state": "已认领"
   },
@@ -4845,8 +4836,8 @@
     "thread": "C140300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-17",
     "state": "已认领"
   },
@@ -4914,11 +4905,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C141208",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 851,
+    "accepted": null,
+    "known": "2026-06-17",
+    "state": "拒接"
+  },
+  {
     "thread": "C141300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-17",
     "state": "已认领"
   },
@@ -4962,8 +4962,8 @@
     "thread": "C142300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-17",
     "state": "已认领"
   },
@@ -5034,8 +5034,8 @@
     "thread": "C143300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-17",
     "state": "已认领"
   },
@@ -5046,6 +5046,15 @@
     "offered": 488,
     "accepted": 492,
     "known": "2026-06-18",
+    "state": "已认领"
+  },
+  {
+    "thread": "C150004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 494,
+    "known": "2026-06-16",
     "state": "已认领"
   },
   {
@@ -5085,11 +5094,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C150208",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 851,
+    "accepted": 857,
+    "known": "2026-06-16",
+    "state": "已认领"
+  },
+  {
     "thread": "C150300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-18",
     "state": "已认领"
   },
@@ -5099,6 +5117,15 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1034,
+    "known": "2026-06-16",
+    "state": "已认领"
+  },
+  {
+    "thread": "C150308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1037,
     "known": "2026-06-16",
     "state": "已认领"
   },
@@ -5169,8 +5196,8 @@
     "thread": "C151300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-18",
     "state": "已认领"
   },
@@ -5220,15 +5247,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C152108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 677,
-    "known": "2026-06-16",
-    "state": "已认领"
-  },
-  {
     "thread": "C152200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -5238,20 +5256,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C152204",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 852,
-    "accepted": 854,
-    "known": "2026-06-16",
-    "state": "已认领"
-  },
-  {
     "thread": "C152300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-18",
     "state": "已认领"
   },
@@ -5292,15 +5301,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C153104",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 672,
-    "accepted": 674,
-    "known": "2026-06-16",
-    "state": "已认领"
-  },
-  {
     "thread": "C153200",
     "origin": "老城馆",
     "destination": "港口",
@@ -5322,8 +5322,8 @@
     "thread": "C153300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-18",
     "state": "已认领"
   },
@@ -5337,21 +5337,21 @@
     "state": "已认领"
   },
   {
-    "thread": "C153308",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1031,
-    "accepted": 1037,
-    "known": "2026-06-16",
-    "state": "已认领"
-  },
-  {
     "thread": "C160000",
     "origin": "港口",
     "destination": "滨海馆",
     "offered": 488,
     "accepted": 493,
     "known": "2026-06-19",
+    "state": "已认领"
+  },
+  {
+    "thread": "C160004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 495,
+    "known": "2026-06-17",
     "state": "已认领"
   },
   {
@@ -5394,8 +5394,8 @@
     "thread": "C160300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-06-19",
     "state": "已认领"
   },
@@ -5405,6 +5405,15 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1035,
+    "known": "2026-06-17",
+    "state": "已认领"
+  },
+  {
+    "thread": "C160308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1032,
     "known": "2026-06-17",
     "state": "已认领"
   },
@@ -5466,8 +5475,8 @@
     "thread": "C161300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-06-19",
     "state": "已认领"
   },
@@ -5490,15 +5499,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C162008",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 491,
-    "accepted": 492,
-    "known": "2026-06-17",
-    "state": "已认领"
-  },
-  {
     "thread": "C162100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -5517,6 +5517,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C162108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 672,
+    "known": "2026-06-17",
+    "state": "已认领"
+  },
+  {
     "thread": "C162200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -5526,20 +5535,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C162204",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 852,
-    "accepted": 855,
-    "known": "2026-06-17",
-    "state": "已认领"
-  },
-  {
     "thread": "C162300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-06-19",
     "state": "已认领"
   },
@@ -5567,6 +5567,15 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 495,
+    "known": "2026-06-17",
+    "state": "已认领"
+  },
+  {
+    "thread": "C163008",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 491,
+    "accepted": 492,
     "known": "2026-06-17",
     "state": "已认领"
   },
@@ -5610,8 +5619,8 @@
     "thread": "C163300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-06-19",
     "state": "已认领"
   },
@@ -5679,20 +5688,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C170208",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 851,
-    "accepted": 853,
-    "known": "2026-06-18",
-    "state": "已认领"
-  },
-  {
     "thread": "C170300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-06-20",
     "state": "已认领"
   },
@@ -5702,15 +5702,6 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1036,
-    "known": "2026-06-18",
-    "state": "已认领"
-  },
-  {
-    "thread": "C170308",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1031,
-    "accepted": 1033,
     "known": "2026-06-18",
     "state": "已认领"
   },
@@ -5769,21 +5760,21 @@
     "state": "已认领"
   },
   {
-    "thread": "C171208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 853,
-    "known": "2026-06-18",
-    "state": "已认领"
-  },
-  {
     "thread": "C171300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-06-20",
+    "state": "已认领"
+  },
+  {
+    "thread": "C171304",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1032,
+    "accepted": 1036,
+    "known": "2026-06-18",
     "state": "已认领"
   },
   {
@@ -5823,6 +5814,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C172108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 673,
+    "known": "2026-06-18",
+    "state": "已认领"
+  },
+  {
     "thread": "C172200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -5844,8 +5844,8 @@
     "thread": "C172300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-06-20",
     "state": "已认领"
   },
@@ -5925,8 +5925,8 @@
     "thread": "C173300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-06-20",
     "state": "已认领"
   },
@@ -6003,11 +6003,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C180212",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 850,
+    "accepted": 851,
+    "known": "2026-06-19",
+    "state": "已认领"
+  },
+  {
     "thread": "C180300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-21",
     "state": "已认领"
   },
@@ -6033,17 +6042,8 @@
     "thread": "C180312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1031,
-    "known": "2026-06-19",
-    "state": "已认领"
-  },
-  {
-    "thread": "C180316",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1029,
-    "accepted": 1034,
+    "offered": 1183,
+    "accepted": 1184,
     "known": "2026-06-19",
     "state": "已认领"
   },
@@ -6084,6 +6084,15 @@
     "state": "拒接"
   },
   {
+    "thread": "C181108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 674,
+    "known": "2026-06-19",
+    "state": "已认领"
+  },
+  {
     "thread": "C181200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -6120,11 +6129,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C181216",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 849,
+    "accepted": 854,
+    "known": "2026-06-19",
+    "state": "已认领"
+  },
+  {
     "thread": "C181300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-21",
     "state": "已认领"
   },
@@ -6147,6 +6165,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C181312",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1183,
+    "accepted": 1184,
+    "known": "2026-06-19",
+    "state": "已认领"
+  },
+  {
     "thread": "C182000",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -6163,6 +6190,15 @@
     "accepted": null,
     "known": "2026-06-21",
     "state": "拒接"
+  },
+  {
+    "thread": "C182008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 494,
+    "known": "2026-06-19",
+    "state": "已认领"
   },
   {
     "thread": "C182100",
@@ -6219,20 +6255,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C182212",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 850,
-    "accepted": 851,
-    "known": "2026-06-19",
-    "state": "已认领"
-  },
-  {
     "thread": "C182300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-21",
     "state": "已认领"
   },
@@ -6255,6 +6282,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C182312",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 1183,
+    "accepted": 1184,
+    "known": "2026-06-19",
+    "state": "已认领"
+  },
+  {
     "thread": "C183000",
     "origin": "老城馆",
     "destination": "港口",
@@ -6271,15 +6307,6 @@
     "accepted": null,
     "known": "2026-06-21",
     "state": "拒接"
-  },
-  {
-    "thread": "C183008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 494,
-    "known": "2026-06-19",
-    "state": "已认领"
   },
   {
     "thread": "C183100",
@@ -6327,11 +6354,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C183212",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 850,
+    "accepted": 851,
+    "known": "2026-06-19",
+    "state": "已认领"
+  },
+  {
     "thread": "C183300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-21",
     "state": "已认领"
   },
@@ -6354,21 +6390,21 @@
     "state": "已认领"
   },
   {
+    "thread": "C183312",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 1183,
+    "accepted": 1184,
+    "known": "2026-06-19",
+    "state": "已认领"
+  },
+  {
     "thread": "C190000",
     "origin": "港口",
     "destination": "滨海馆",
     "offered": 488,
     "accepted": 490,
     "known": "2026-06-22",
-    "state": "已认领"
-  },
-  {
-    "thread": "C190004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": 498,
-    "known": "2026-06-20",
     "state": "已认领"
   },
   {
@@ -6429,8 +6465,8 @@
     "thread": "C190300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-22",
     "state": "已认领"
   },
@@ -6456,8 +6492,8 @@
     "thread": "C190312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1032,
+    "offered": 1183,
+    "accepted": 1185,
     "known": "2026-06-20",
     "state": "已认领"
   },
@@ -6534,20 +6570,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C191216",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 849,
-    "accepted": 855,
-    "known": "2026-06-20",
-    "state": "已认领"
-  },
-  {
     "thread": "C191300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-22",
     "state": "已认领"
   },
@@ -6566,15 +6593,6 @@
     "destination": "芦湾酒店",
     "offered": 1031,
     "accepted": 1035,
-    "known": "2026-06-20",
-    "state": "已认领"
-  },
-  {
-    "thread": "C191312",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1030,
-    "accepted": 1032,
     "known": "2026-06-20",
     "state": "已认领"
   },
@@ -6645,8 +6663,8 @@
     "thread": "C192300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-22",
     "state": "已认领"
   },
@@ -6735,8 +6753,8 @@
     "thread": "C193300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-22",
     "state": "已认领"
   },
@@ -6762,8 +6780,8 @@
     "thread": "C193312",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1030,
-    "accepted": 1032,
+    "offered": 1183,
+    "accepted": 1185,
     "known": "2026-06-20",
     "state": "已认领"
   },
@@ -6822,11 +6840,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C200208",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 851,
+    "accepted": 856,
+    "known": "2026-06-21",
+    "state": "已认领"
+  },
+  {
     "thread": "C200300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-23",
     "state": "已认领"
   },
@@ -6903,21 +6930,21 @@
     "state": "已认领"
   },
   {
-    "thread": "C201300",
+    "thread": "C201208",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1031,
-    "known": "2026-06-23",
+    "offered": 851,
+    "accepted": 856,
+    "known": "2026-06-21",
     "state": "已认领"
   },
   {
-    "thread": "C201304",
+    "thread": "C201300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1032,
-    "accepted": 1033,
-    "known": "2026-06-21",
+    "offered": 1158,
+    "accepted": 1161,
+    "known": "2026-06-23",
     "state": "已认领"
   },
   {
@@ -6987,8 +7014,8 @@
     "thread": "C202300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-23",
     "state": "已认领"
   },
@@ -7068,8 +7095,8 @@
     "thread": "C203300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-23",
     "state": "已认领"
   },
@@ -7158,8 +7185,8 @@
     "thread": "C210300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-24",
     "state": "已认领"
   },
@@ -7180,15 +7207,6 @@
     "accepted": 1037,
     "known": "2026-06-22",
     "state": "已认领"
-  },
-  {
-    "thread": "C210312",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": null,
-    "known": "2026-06-24",
-    "state": "待认领"
   },
   {
     "thread": "C211000",
@@ -7266,8 +7284,8 @@
     "thread": "C211300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-24",
     "state": "已认领"
   },
@@ -7293,7 +7311,7 @@
     "thread": "C211312",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1030,
+    "offered": 1183,
     "accepted": null,
     "known": "2026-06-24",
     "state": "待认领"
@@ -7371,20 +7389,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C212212",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 850,
-    "accepted": null,
-    "known": "2026-06-24",
-    "state": "待认领"
-  },
-  {
     "thread": "C212300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-24",
     "state": "已认领"
   },
@@ -7410,7 +7419,7 @@
     "thread": "C212312",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1030,
+    "offered": 1183,
     "accepted": null,
     "known": "2026-06-24",
     "state": "待认领"
@@ -7500,8 +7509,8 @@
     "thread": "C213300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-24",
     "state": "已认领"
   },
@@ -7527,7 +7536,7 @@
     "thread": "C213312",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1030,
+    "offered": 1183,
     "accepted": null,
     "known": "2026-06-24",
     "state": "待认领"
@@ -7590,7 +7599,7 @@
     "thread": "C220300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-06-25",
     "state": "拒接"
@@ -7650,6 +7659,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C221108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 672,
+    "known": "2026-06-23",
+    "state": "已认领"
+  },
+  {
     "thread": "C221200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -7668,19 +7686,10 @@
     "state": "已认领"
   },
   {
-    "thread": "C221208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 852,
-    "known": "2026-06-23",
-    "state": "已认领"
-  },
-  {
     "thread": "C221300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-06-25",
     "state": "拒接"
@@ -7713,15 +7722,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C222008",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 491,
-    "accepted": 492,
-    "known": "2026-06-23",
-    "state": "已认领"
-  },
-  {
     "thread": "C222100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -7749,10 +7749,19 @@
     "state": "拒接"
   },
   {
+    "thread": "C222204",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 852,
+    "accepted": 855,
+    "known": "2026-06-23",
+    "state": "已认领"
+  },
+  {
     "thread": "C222300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-06-25",
     "state": "拒接"
@@ -7781,15 +7790,6 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 495,
-    "known": "2026-06-23",
-    "state": "已认领"
-  },
-  {
-    "thread": "C223008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 492,
     "known": "2026-06-23",
     "state": "已认领"
   },
@@ -7833,7 +7833,7 @@
     "thread": "C223300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-06-25",
     "state": "拒接"
@@ -7844,15 +7844,6 @@
     "destination": "港口",
     "offered": 1032,
     "accepted": 1035,
-    "known": "2026-06-23",
-    "state": "已认领"
-  },
-  {
-    "thread": "C223308",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1031,
-    "accepted": 1032,
     "known": "2026-06-23",
     "state": "已认领"
   },
@@ -7914,8 +7905,8 @@
     "thread": "C230300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-06-26",
     "state": "已认领"
   },
@@ -7974,6 +7965,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C231108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 673,
+    "known": "2026-06-24",
+    "state": "已认领"
+  },
+  {
     "thread": "C231200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -7992,30 +7992,12 @@
     "state": "已认领"
   },
   {
-    "thread": "C231208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 853,
-    "known": "2026-06-24",
-    "state": "已认领"
-  },
-  {
     "thread": "C231300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-06-26",
-    "state": "已认领"
-  },
-  {
-    "thread": "C231304",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1032,
-    "accepted": 1036,
-    "known": "2026-06-24",
     "state": "已认领"
   },
   {
@@ -8033,6 +8015,15 @@
     "destination": "老城馆",
     "offered": 492,
     "accepted": 496,
+    "known": "2026-06-24",
+    "state": "已认领"
+  },
+  {
+    "thread": "C232008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 493,
     "known": "2026-06-24",
     "state": "已认领"
   },
@@ -8055,15 +8046,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C232108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 673,
-    "known": "2026-06-24",
-    "state": "已认领"
-  },
-  {
     "thread": "C232200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -8073,11 +8055,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C232204",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 852,
+    "accepted": 856,
+    "known": "2026-06-24",
+    "state": "已认领"
+  },
+  {
     "thread": "C232300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-06-26",
     "state": "已认领"
   },
@@ -8118,15 +8109,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C233104",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 672,
-    "accepted": 676,
-    "known": "2026-06-24",
-    "state": "已认领"
-  },
-  {
     "thread": "C233200",
     "origin": "老城馆",
     "destination": "港口",
@@ -8148,8 +8130,8 @@
     "thread": "C233300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-06-26",
     "state": "已认领"
   },
@@ -8169,15 +8151,6 @@
     "offered": 488,
     "accepted": 489,
     "known": "2026-06-27",
-    "state": "已认领"
-  },
-  {
-    "thread": "C240004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": 497,
-    "known": "2026-06-25",
     "state": "已认领"
   },
   {
@@ -8220,8 +8193,8 @@
     "thread": "C240300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-27",
     "state": "已认领"
   },
@@ -8231,6 +8204,15 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1037,
+    "known": "2026-06-25",
+    "state": "已认领"
+  },
+  {
+    "thread": "C240308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1034,
     "known": "2026-06-25",
     "state": "已认领"
   },
@@ -8271,6 +8253,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C241108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 674,
+    "known": "2026-06-25",
+    "state": "已认领"
+  },
+  {
     "thread": "C241200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -8289,11 +8280,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C241208",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 851,
+    "accepted": 854,
+    "known": "2026-06-25",
+    "state": "已认领"
+  },
+  {
     "thread": "C241300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-27",
     "state": "已认领"
   },
@@ -8325,15 +8325,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C242008",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 491,
-    "accepted": 494,
-    "known": "2026-06-25",
-    "state": "已认领"
-  },
-  {
     "thread": "C242100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -8348,15 +8339,6 @@
     "destination": "老城馆",
     "offered": 672,
     "accepted": 677,
-    "known": "2026-06-25",
-    "state": "已认领"
-  },
-  {
-    "thread": "C242108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 674,
     "known": "2026-06-25",
     "state": "已认领"
   },
@@ -8382,8 +8364,8 @@
     "thread": "C242300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-27",
     "state": "已认领"
   },
@@ -8411,15 +8393,6 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 497,
-    "known": "2026-06-25",
-    "state": "已认领"
-  },
-  {
-    "thread": "C243008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 494,
     "known": "2026-06-25",
     "state": "已认领"
   },
@@ -8463,8 +8436,8 @@
     "thread": "C243300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-06-27",
     "state": "已认领"
   },
@@ -8484,6 +8457,15 @@
     "offered": 488,
     "accepted": 490,
     "known": "2026-06-28",
+    "state": "已认领"
+  },
+  {
+    "thread": "C250004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 498,
+    "known": "2026-06-26",
     "state": "已认领"
   },
   {
@@ -8544,8 +8526,8 @@
     "thread": "C250300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-28",
     "state": "已认领"
   },
@@ -8566,6 +8548,15 @@
     "accepted": null,
     "known": "2026-06-28",
     "state": "待认领"
+  },
+  {
+    "thread": "C250312",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1183,
+    "accepted": 1185,
+    "known": "2026-06-26",
+    "state": "已认领"
   },
   {
     "thread": "C251000",
@@ -8631,20 +8622,11 @@
     "state": "待认领"
   },
   {
-    "thread": "C251212",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 850,
-    "accepted": 852,
-    "known": "2026-06-26",
-    "state": "已认领"
-  },
-  {
     "thread": "C251300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-28",
     "state": "已认领"
   },
@@ -8703,15 +8685,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C252108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": null,
-    "known": "2026-06-28",
-    "state": "待认领"
-  },
-  {
     "thread": "C252200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -8742,8 +8715,8 @@
     "thread": "C252300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-28",
     "state": "已认领"
   },
@@ -8769,8 +8742,8 @@
     "thread": "C252312",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1030,
-    "accepted": 1032,
+    "offered": 1183,
+    "accepted": 1185,
     "known": "2026-06-26",
     "state": "已认领"
   },
@@ -8791,15 +8764,6 @@
     "accepted": 498,
     "known": "2026-06-26",
     "state": "已认领"
-  },
-  {
-    "thread": "C253008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": null,
-    "known": "2026-06-28",
-    "state": "待认领"
   },
   {
     "thread": "C253100",
@@ -8847,20 +8811,11 @@
     "state": "待认领"
   },
   {
-    "thread": "C253212",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 850,
-    "accepted": 852,
-    "known": "2026-06-26",
-    "state": "已认领"
-  },
-  {
     "thread": "C253300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-06-28",
     "state": "已认领"
   },
@@ -8881,15 +8836,6 @@
     "accepted": null,
     "known": "2026-06-28",
     "state": "待认领"
-  },
-  {
-    "thread": "C253312",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1030,
-    "accepted": 1032,
-    "known": "2026-06-26",
-    "state": "已认领"
   },
   {
     "thread": "C260000",
@@ -8967,8 +8913,8 @@
     "thread": "C260300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-29",
     "state": "已认领"
   },
@@ -8994,8 +8940,8 @@
     "thread": "C260312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1033,
+    "offered": 1183,
+    "accepted": 1186,
     "known": "2026-06-27",
     "state": "已认领"
   },
@@ -9032,15 +8978,6 @@
     "destination": "芦湾酒店",
     "offered": 672,
     "accepted": 673,
-    "known": "2026-06-27",
-    "state": "已认领"
-  },
-  {
-    "thread": "C261108",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 671,
-    "accepted": 676,
     "known": "2026-06-27",
     "state": "已认领"
   },
@@ -9084,8 +9021,8 @@
     "thread": "C261300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-29",
     "state": "已认领"
   },
@@ -9126,6 +9063,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C262008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 496,
+    "known": "2026-06-27",
+    "state": "已认领"
+  },
+  {
     "thread": "C262100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -9140,6 +9086,15 @@
     "destination": "老城馆",
     "offered": 672,
     "accepted": 673,
+    "known": "2026-06-27",
+    "state": "已认领"
+  },
+  {
+    "thread": "C262108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 676,
     "known": "2026-06-27",
     "state": "已认领"
   },
@@ -9174,8 +9129,8 @@
     "thread": "C262300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-29",
     "state": "已认领"
   },
@@ -9198,6 +9153,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C262312",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 1183,
+    "accepted": 1186,
+    "known": "2026-06-27",
+    "state": "已认领"
+  },
+  {
     "thread": "C263000",
     "origin": "老城馆",
     "destination": "港口",
@@ -9212,15 +9176,6 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 493,
-    "known": "2026-06-27",
-    "state": "已认领"
-  },
-  {
-    "thread": "C263008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 496,
     "known": "2026-06-27",
     "state": "已认领"
   },
@@ -9270,20 +9225,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C263212",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 850,
-    "accepted": 853,
-    "known": "2026-06-27",
-    "state": "已认领"
-  },
-  {
     "thread": "C263300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-06-29",
     "state": "已认领"
   },
@@ -9309,8 +9255,8 @@
     "thread": "C263312",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1030,
-    "accepted": 1033,
+    "offered": 1183,
+    "accepted": 1186,
     "known": "2026-06-27",
     "state": "已认领"
   },
@@ -9321,15 +9267,6 @@
     "offered": 488,
     "accepted": 492,
     "known": "2026-06-30",
-    "state": "已认领"
-  },
-  {
-    "thread": "C270004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": 494,
-    "known": "2026-06-28",
     "state": "已认领"
   },
   {
@@ -9372,8 +9309,8 @@
     "thread": "C270300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-30",
     "state": "已认领"
   },
@@ -9383,6 +9320,15 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1034,
+    "known": "2026-06-28",
+    "state": "已认领"
+  },
+  {
+    "thread": "C270308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1037,
     "known": "2026-06-28",
     "state": "已认领"
   },
@@ -9453,8 +9399,8 @@
     "thread": "C271300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-30",
     "state": "已认领"
   },
@@ -9534,8 +9480,8 @@
     "thread": "C272300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-30",
     "state": "已认领"
   },
@@ -9597,8 +9543,8 @@
     "thread": "C273300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-06-30",
     "state": "已认领"
   },
@@ -9608,6 +9554,15 @@
     "destination": "港口",
     "offered": 1032,
     "accepted": 1034,
+    "known": "2026-06-28",
+    "state": "已认领"
+  },
+  {
+    "thread": "C273308",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 1031,
+    "accepted": 1037,
     "known": "2026-06-28",
     "state": "已认领"
   },
@@ -9669,8 +9624,8 @@
     "thread": "C280300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-01",
     "state": "已认领"
   },
@@ -9680,15 +9635,6 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1035,
-    "known": "2026-06-29",
-    "state": "已认领"
-  },
-  {
-    "thread": "C280308",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1031,
-    "accepted": 1032,
     "known": "2026-06-29",
     "state": "已认领"
   },
@@ -9747,20 +9693,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C281208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 852,
-    "known": "2026-06-29",
-    "state": "已认领"
-  },
-  {
     "thread": "C281300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-01",
     "state": "已认领"
   },
@@ -9810,6 +9747,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C282108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 672,
+    "known": "2026-06-29",
+    "state": "已认领"
+  },
+  {
     "thread": "C282200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -9819,11 +9765,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C282204",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 852,
+    "accepted": 855,
+    "known": "2026-06-29",
+    "state": "已认领"
+  },
+  {
     "thread": "C282300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-01",
     "state": "已认领"
   },
@@ -9903,8 +9858,8 @@
     "thread": "C283300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-01",
     "state": "已认领"
   },
@@ -9975,8 +9930,8 @@
     "thread": "C290300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-02",
     "state": "已认领"
   },
@@ -9988,6 +9943,15 @@
     "accepted": null,
     "known": "2026-07-02",
     "state": "待认领"
+  },
+  {
+    "thread": "C290308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1033,
+    "known": "2026-06-30",
+    "state": "已认领"
   },
   {
     "thread": "C291000",
@@ -10026,15 +9990,6 @@
     "state": "待认领"
   },
   {
-    "thread": "C291108",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 671,
-    "accepted": 673,
-    "known": "2026-06-30",
-    "state": "已认领"
-  },
-  {
     "thread": "C291200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -10056,10 +10011,19 @@
     "thread": "C291300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-02",
     "state": "已认领"
+  },
+  {
+    "thread": "C291304",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1032,
+    "accepted": null,
+    "known": "2026-07-02",
+    "state": "待认领"
   },
   {
     "thread": "C292000",
@@ -10119,8 +10083,8 @@
     "thread": "C292300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-02",
     "state": "已认领"
   },
@@ -10152,6 +10116,15 @@
     "state": "待认领"
   },
   {
+    "thread": "C293008",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 491,
+    "accepted": 493,
+    "known": "2026-06-30",
+    "state": "已认领"
+  },
+  {
     "thread": "C293100",
     "origin": "老城馆",
     "destination": "港口",
@@ -10159,15 +10132,6 @@
     "accepted": 674,
     "known": "2026-07-02",
     "state": "已认领"
-  },
-  {
-    "thread": "C293104",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 672,
-    "accepted": null,
-    "known": "2026-07-02",
-    "state": "待认领"
   },
   {
     "thread": "C293200",
@@ -10191,8 +10155,8 @@
     "thread": "C293300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-02",
     "state": "已认领"
   },
@@ -10263,8 +10227,8 @@
     "thread": "C300300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-03",
     "state": "已认领"
   },
@@ -10332,11 +10296,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C301208",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 851,
+    "accepted": 854,
+    "known": "2026-07-01",
+    "state": "已认领"
+  },
+  {
     "thread": "C301300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-03",
     "state": "已认领"
   },
@@ -10386,15 +10359,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C302108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 674,
-    "known": "2026-07-01",
-    "state": "已认领"
-  },
-  {
     "thread": "C302200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -10404,20 +10368,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C302204",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 852,
-    "accepted": 857,
-    "known": "2026-07-01",
-    "state": "已认领"
-  },
-  {
     "thread": "C302300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-03",
     "state": "已认领"
   },
@@ -10497,8 +10452,8 @@
     "thread": "C303300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-03",
     "state": "已认领"
   },
@@ -10512,12 +10467,30 @@
     "state": "已认领"
   },
   {
+    "thread": "C303308",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 1031,
+    "accepted": 1034,
+    "known": "2026-07-01",
+    "state": "已认领"
+  },
+  {
     "thread": "C310000",
     "origin": "港口",
     "destination": "滨海馆",
     "offered": 488,
     "accepted": 490,
     "known": "2026-07-04",
+    "state": "已认领"
+  },
+  {
+    "thread": "C310004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 498,
+    "known": "2026-07-02",
     "state": "已认领"
   },
   {
@@ -10557,20 +10530,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C310208",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 851,
-    "accepted": 855,
-    "known": "2026-07-02",
-    "state": "已认领"
-  },
-  {
     "thread": "C310300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-04",
     "state": "已认领"
   },
@@ -10580,6 +10544,15 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1038,
+    "known": "2026-07-02",
+    "state": "已认领"
+  },
+  {
+    "thread": "C310308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1035,
     "known": "2026-07-02",
     "state": "已认领"
   },
@@ -10641,9 +10614,18 @@
     "thread": "C311300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-04",
+    "state": "已认领"
+  },
+  {
+    "thread": "C311304",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1032,
+    "accepted": 1038,
+    "known": "2026-07-02",
     "state": "已认领"
   },
   {
@@ -10665,6 +10647,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C312008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 495,
+    "known": "2026-07-02",
+    "state": "已认领"
+  },
+  {
     "thread": "C312100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -10679,15 +10670,6 @@
     "destination": "老城馆",
     "offered": 672,
     "accepted": 678,
-    "known": "2026-07-02",
-    "state": "已认领"
-  },
-  {
-    "thread": "C312108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 675,
     "known": "2026-07-02",
     "state": "已认领"
   },
@@ -10713,8 +10695,8 @@
     "thread": "C312300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-04",
     "state": "已认领"
   },
@@ -10785,8 +10767,8 @@
     "thread": "C313300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-04",
     "state": "已认领"
   },
@@ -10800,12 +10782,30 @@
     "state": "已认领"
   },
   {
+    "thread": "C313308",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 1031,
+    "accepted": 1035,
+    "known": "2026-07-02",
+    "state": "已认领"
+  },
+  {
     "thread": "C320000",
     "origin": "港口",
     "destination": "滨海馆",
     "offered": 488,
     "accepted": 491,
     "known": "2026-07-05",
+    "state": "已认领"
+  },
+  {
+    "thread": "C320004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 493,
+    "known": "2026-07-03",
     "state": "已认领"
   },
   {
@@ -10854,20 +10854,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C320212",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 850,
-    "accepted": null,
-    "known": "2026-07-05",
-    "state": "拒接"
-  },
-  {
     "thread": "C320300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-05",
     "state": "已认领"
   },
@@ -10893,10 +10884,19 @@
     "thread": "C320312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
+    "offered": 1183,
     "accepted": null,
     "known": "2026-07-05",
     "state": "拒接"
+  },
+  {
+    "thread": "C320316",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1029,
+    "accepted": 1030,
+    "known": "2026-07-03",
+    "state": "已认领"
   },
   {
     "thread": "C321000",
@@ -10971,11 +10971,20 @@
     "state": "拒接"
   },
   {
+    "thread": "C321216",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 849,
+    "accepted": 850,
+    "known": "2026-07-03",
+    "state": "已认领"
+  },
+  {
     "thread": "C321300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-05",
     "state": "已认领"
   },
@@ -10998,15 +11007,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C321312",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1030,
-    "accepted": null,
-    "known": "2026-07-05",
-    "state": "拒接"
-  },
-  {
     "thread": "C322000",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -11025,6 +11025,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C322008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 496,
+    "known": "2026-07-03",
+    "state": "已认领"
+  },
+  {
     "thread": "C322100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -11039,6 +11048,15 @@
     "destination": "老城馆",
     "offered": 672,
     "accepted": 673,
+    "known": "2026-07-03",
+    "state": "已认领"
+  },
+  {
+    "thread": "C322108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 676,
     "known": "2026-07-03",
     "state": "已认领"
   },
@@ -11073,8 +11091,8 @@
     "thread": "C322300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-05",
     "state": "已认领"
   },
@@ -11097,6 +11115,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C322312",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 1183,
+    "accepted": null,
+    "known": "2026-07-05",
+    "state": "拒接"
+  },
+  {
     "thread": "C323000",
     "origin": "老城馆",
     "destination": "港口",
@@ -11115,30 +11142,12 @@
     "state": "已认领"
   },
   {
-    "thread": "C323008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 496,
-    "known": "2026-07-03",
-    "state": "已认领"
-  },
-  {
     "thread": "C323100",
     "origin": "老城馆",
     "destination": "港口",
     "offered": 668,
     "accepted": 671,
     "known": "2026-07-05",
-    "state": "已认领"
-  },
-  {
-    "thread": "C323104",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 672,
-    "accepted": 673,
-    "known": "2026-07-03",
     "state": "已认领"
   },
   {
@@ -11181,8 +11190,8 @@
     "thread": "C323300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-05",
     "state": "已认领"
   },
@@ -11205,15 +11214,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C323312",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1030,
-    "accepted": null,
-    "known": "2026-07-05",
-    "state": "拒接"
-  },
-  {
     "thread": "C330000",
     "origin": "港口",
     "destination": "滨海馆",
@@ -11221,6 +11221,15 @@
     "accepted": null,
     "known": "2026-07-06",
     "state": "待认领"
+  },
+  {
+    "thread": "C330004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 494,
+    "known": "2026-07-04",
+    "state": "已认领"
   },
   {
     "thread": "C330100",
@@ -11280,7 +11289,7 @@
     "thread": "C330300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-07-06",
     "state": "待认领"
@@ -11307,8 +11316,8 @@
     "thread": "C330312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1034,
+    "offered": 1183,
+    "accepted": 1187,
     "known": "2026-07-04",
     "state": "已认领"
   },
@@ -11388,7 +11397,7 @@
     "thread": "C331300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-07-06",
     "state": "待认领"
@@ -11478,7 +11487,7 @@
     "thread": "C332300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-07-06",
     "state": "待认领"
@@ -11498,6 +11507,15 @@
     "destination": "老城馆",
     "offered": 1031,
     "accepted": 1037,
+    "known": "2026-07-04",
+    "state": "已认领"
+  },
+  {
+    "thread": "C332312",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 1183,
+    "accepted": 1187,
     "known": "2026-07-04",
     "state": "已认领"
   },
@@ -11556,19 +11574,10 @@
     "state": "已认领"
   },
   {
-    "thread": "C333212",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 850,
-    "accepted": 854,
-    "known": "2026-07-04",
-    "state": "已认领"
-  },
-  {
     "thread": "C333300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-07-06",
     "state": "待认领"
@@ -11588,15 +11597,6 @@
     "destination": "港口",
     "offered": 1031,
     "accepted": 1037,
-    "known": "2026-07-04",
-    "state": "已认领"
-  },
-  {
-    "thread": "C333312",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1030,
-    "accepted": 1034,
     "known": "2026-07-04",
     "state": "已认领"
   },
@@ -11655,11 +11655,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C340208",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 851,
+    "accepted": 852,
+    "known": "2026-07-05",
+    "state": "已认领"
+  },
+  {
     "thread": "C340300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-07",
     "state": "已认领"
   },
@@ -11669,15 +11678,6 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1035,
-    "known": "2026-07-05",
-    "state": "已认领"
-  },
-  {
-    "thread": "C340308",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1031,
-    "accepted": 1032,
     "known": "2026-07-05",
     "state": "已认领"
   },
@@ -11718,6 +11718,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C341108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 672,
+    "known": "2026-07-05",
+    "state": "已认领"
+  },
+  {
     "thread": "C341200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -11736,20 +11745,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C341208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 852,
-    "known": "2026-07-05",
-    "state": "已认领"
-  },
-  {
     "thread": "C341300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-07",
     "state": "已认领"
   },
@@ -11799,6 +11799,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C342108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 672,
+    "known": "2026-07-05",
+    "state": "已认领"
+  },
+  {
     "thread": "C342200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -11820,8 +11829,8 @@
     "thread": "C342300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-07",
     "state": "已认领"
   },
@@ -11901,8 +11910,8 @@
     "thread": "C343300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-07",
     "state": "已认领"
   },
@@ -11955,8 +11964,8 @@
     "thread": "C350300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-08",
     "state": "已认领"
   },
@@ -11966,6 +11975,15 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1036,
+    "known": "2026-07-06",
+    "state": "已认领"
+  },
+  {
+    "thread": "C350308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1033,
     "known": "2026-07-06",
     "state": "已认领"
   },
@@ -12018,8 +12036,8 @@
     "thread": "C351300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-08",
     "state": "已认领"
   },
@@ -12063,8 +12081,8 @@
     "thread": "C352300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-08",
     "state": "已认领"
   },
@@ -12126,8 +12144,8 @@
     "thread": "C353300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-08",
     "state": "已认领"
   },
@@ -12189,8 +12207,8 @@
     "thread": "C360300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-09",
     "state": "已认领"
   },
@@ -12202,6 +12220,15 @@
     "accepted": 1037,
     "known": "2026-07-07",
     "state": "已认领"
+  },
+  {
+    "thread": "C360308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": null,
+    "known": "2026-07-09",
+    "state": "拒接"
   },
   {
     "thread": "C361000",
@@ -12261,8 +12288,8 @@
     "thread": "C361300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-09",
     "state": "已认领"
   },
@@ -12294,15 +12321,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C362008",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 491,
-    "accepted": null,
-    "known": "2026-07-09",
-    "state": "拒接"
-  },
-  {
     "thread": "C362100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -12330,11 +12348,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C362204",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 852,
+    "accepted": 857,
+    "known": "2026-07-07",
+    "state": "已认领"
+  },
+  {
     "thread": "C362300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-09",
     "state": "已认领"
   },
@@ -12414,8 +12441,8 @@
     "thread": "C363300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-09",
     "state": "已认领"
   },
@@ -12483,11 +12510,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C370208",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 851,
+    "accepted": 855,
+    "known": "2026-07-08",
+    "state": "已认领"
+  },
+  {
     "thread": "C370300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-10",
     "state": "已认领"
   },
@@ -12546,6 +12582,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C371108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 675,
+    "known": "2026-07-08",
+    "state": "已认领"
+  },
+  {
     "thread": "C371200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -12567,18 +12612,9 @@
     "thread": "C371300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-10",
-    "state": "已认领"
-  },
-  {
-    "thread": "C371304",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1032,
-    "accepted": 1038,
-    "known": "2026-07-08",
     "state": "已认领"
   },
   {
@@ -12618,6 +12654,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C372108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 675,
+    "known": "2026-07-08",
+    "state": "已认领"
+  },
+  {
     "thread": "C372200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -12639,8 +12684,8 @@
     "thread": "C372300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-10",
     "state": "已认领"
   },
@@ -12681,15 +12726,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C373104",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 672,
-    "accepted": 678,
-    "known": "2026-07-08",
-    "state": "已认领"
-  },
-  {
     "thread": "C373200",
     "origin": "老城馆",
     "destination": "港口",
@@ -12711,8 +12747,8 @@
     "thread": "C373300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-10",
     "state": "已认领"
   },
@@ -12726,12 +12762,30 @@
     "state": "已认领"
   },
   {
+    "thread": "C373308",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 1031,
+    "accepted": 1035,
+    "known": "2026-07-08",
+    "state": "已认领"
+  },
+  {
     "thread": "C380000",
     "origin": "港口",
     "destination": "滨海馆",
     "offered": 488,
     "accepted": 491,
     "known": "2026-07-11",
+    "state": "已认领"
+  },
+  {
+    "thread": "C380004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 493,
+    "known": "2026-07-09",
     "state": "已认领"
   },
   {
@@ -12774,8 +12828,8 @@
     "thread": "C380300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-11",
     "state": "已认领"
   },
@@ -12843,20 +12897,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C381208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 856,
-    "known": "2026-07-09",
-    "state": "已认领"
-  },
-  {
     "thread": "C381300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-11",
     "state": "已认领"
   },
@@ -12927,8 +12972,8 @@
     "thread": "C382300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-11",
     "state": "已认领"
   },
@@ -12978,15 +13023,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C383104",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 672,
-    "accepted": 673,
-    "known": "2026-07-09",
-    "state": "已认领"
-  },
-  {
     "thread": "C383200",
     "origin": "老城馆",
     "destination": "港口",
@@ -13008,8 +13044,8 @@
     "thread": "C383300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-11",
     "state": "已认领"
   },
@@ -13038,6 +13074,15 @@
     "offered": 488,
     "accepted": 492,
     "known": "2026-07-12",
+    "state": "已认领"
+  },
+  {
+    "thread": "C390004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 494,
+    "known": "2026-07-10",
     "state": "已认领"
   },
   {
@@ -13098,8 +13143,8 @@
     "thread": "C390300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-12",
     "state": "已认领"
   },
@@ -13125,8 +13170,8 @@
     "thread": "C390312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1034,
+    "offered": 1183,
+    "accepted": 1187,
     "known": "2026-07-10",
     "state": "已认领"
   },
@@ -13206,8 +13251,8 @@
     "thread": "C391300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-12",
     "state": "已认领"
   },
@@ -13226,15 +13271,6 @@
     "destination": "芦湾酒店",
     "offered": 1031,
     "accepted": 1037,
-    "known": "2026-07-10",
-    "state": "已认领"
-  },
-  {
-    "thread": "C391312",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1030,
-    "accepted": 1034,
     "known": "2026-07-10",
     "state": "已认领"
   },
@@ -13284,15 +13320,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C392108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 677,
-    "known": "2026-07-10",
-    "state": "已认领"
-  },
-  {
     "thread": "C392200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -13323,8 +13350,8 @@
     "thread": "C392300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-12",
     "state": "已认领"
   },
@@ -13347,6 +13374,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C392312",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 1183,
+    "accepted": 1187,
+    "known": "2026-07-10",
+    "state": "已认领"
+  },
+  {
     "thread": "C393000",
     "origin": "老城馆",
     "destination": "港口",
@@ -13361,15 +13397,6 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 494,
-    "known": "2026-07-10",
-    "state": "已认领"
-  },
-  {
-    "thread": "C393008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 497,
     "known": "2026-07-10",
     "state": "已认领"
   },
@@ -13419,11 +13446,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C393212",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 850,
+    "accepted": 854,
+    "known": "2026-07-10",
+    "state": "已认领"
+  },
+  {
     "thread": "C393300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-12",
     "state": "已认领"
   },
@@ -13442,6 +13478,15 @@
     "destination": "港口",
     "offered": 1031,
     "accepted": 1037,
+    "known": "2026-07-10",
+    "state": "已认领"
+  },
+  {
+    "thread": "C393312",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 1183,
+    "accepted": 1187,
     "known": "2026-07-10",
     "state": "已认领"
   },
@@ -13509,20 +13554,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C400212",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 850,
-    "accepted": 855,
-    "known": "2026-07-11",
-    "state": "已认领"
-  },
-  {
     "thread": "C400300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-13",
     "state": "已认领"
   },
@@ -13548,17 +13584,8 @@
     "thread": "C400312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1035,
-    "known": "2026-07-11",
-    "state": "已认领"
-  },
-  {
-    "thread": "C400316",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1029,
-    "accepted": 1032,
+    "offered": 1183,
+    "accepted": 1188,
     "known": "2026-07-11",
     "state": "已认领"
   },
@@ -13638,8 +13665,8 @@
     "thread": "C401300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-13",
     "state": "已认领"
   },
@@ -13734,11 +13761,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C402212",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 850,
+    "accepted": 855,
+    "known": "2026-07-11",
+    "state": "已认领"
+  },
+  {
     "thread": "C402300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-13",
     "state": "已认领"
   },
@@ -13757,15 +13793,6 @@
     "destination": "老城馆",
     "offered": 1031,
     "accepted": 1032,
-    "known": "2026-07-11",
-    "state": "已认领"
-  },
-  {
-    "thread": "C402312",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 1030,
-    "accepted": 1035,
     "known": "2026-07-11",
     "state": "已认领"
   },
@@ -13836,8 +13863,8 @@
     "thread": "C403300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-13",
     "state": "已认领"
   },
@@ -13863,8 +13890,8 @@
     "thread": "C403312",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1030,
-    "accepted": 1035,
+    "offered": 1183,
+    "accepted": 1188,
     "known": "2026-07-11",
     "state": "已认领"
   },
@@ -13875,15 +13902,6 @@
     "offered": 488,
     "accepted": 494,
     "known": "2026-07-14",
-    "state": "已认领"
-  },
-  {
-    "thread": "C410004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": 496,
-    "known": "2026-07-12",
     "state": "已认领"
   },
   {
@@ -13926,8 +13944,8 @@
     "thread": "C410300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-14",
     "state": "已认领"
   },
@@ -13995,20 +14013,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C411208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 853,
-    "known": "2026-07-12",
-    "state": "已认领"
-  },
-  {
     "thread": "C411300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-14",
     "state": "已认领"
   },
@@ -14079,8 +14088,8 @@
     "thread": "C412300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-14",
     "state": "已认领"
   },
@@ -14160,8 +14169,8 @@
     "thread": "C413300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-14",
     "state": "已认领"
   },
@@ -14171,15 +14180,6 @@
     "destination": "港口",
     "offered": 1032,
     "accepted": 1036,
-    "known": "2026-07-12",
-    "state": "已认领"
-  },
-  {
-    "thread": "C413308",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1031,
-    "accepted": 1033,
     "known": "2026-07-12",
     "state": "已认领"
   },
@@ -14241,8 +14241,8 @@
     "thread": "C420300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-15",
     "state": "已认领"
   },
@@ -14322,8 +14322,8 @@
     "thread": "C421300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-15",
     "state": "已认领"
   },
@@ -14351,15 +14351,6 @@
     "destination": "老城馆",
     "offered": 492,
     "accepted": 497,
-    "known": "2026-07-13",
-    "state": "已认领"
-  },
-  {
-    "thread": "C422008",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 491,
-    "accepted": 494,
     "known": "2026-07-13",
     "state": "已认领"
   },
@@ -14412,8 +14403,8 @@
     "thread": "C422300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-15",
     "state": "已认领"
   },
@@ -14441,6 +14432,15 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 497,
+    "known": "2026-07-13",
+    "state": "已认领"
+  },
+  {
+    "thread": "C423008",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 491,
+    "accepted": 494,
     "known": "2026-07-13",
     "state": "已认领"
   },
@@ -14484,8 +14484,8 @@
     "thread": "C423300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-15",
     "state": "已认领"
   },
@@ -14553,20 +14553,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C430208",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 851,
-    "accepted": 855,
-    "known": "2026-07-14",
-    "state": "已认领"
-  },
-  {
     "thread": "C430300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-16",
     "state": "已认领"
   },
@@ -14576,6 +14567,15 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1038,
+    "known": "2026-07-14",
+    "state": "已认领"
+  },
+  {
+    "thread": "C430308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1035,
     "known": "2026-07-14",
     "state": "已认领"
   },
@@ -14616,6 +14616,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C431108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 675,
+    "known": "2026-07-14",
+    "state": "已认领"
+  },
+  {
     "thread": "C431200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -14634,12 +14643,30 @@
     "state": "已认领"
   },
   {
+    "thread": "C431208",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 851,
+    "accepted": 855,
+    "known": "2026-07-14",
+    "state": "已认领"
+  },
+  {
     "thread": "C431300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-16",
+    "state": "已认领"
+  },
+  {
+    "thread": "C431304",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1032,
+    "accepted": 1038,
+    "known": "2026-07-14",
     "state": "已认领"
   },
   {
@@ -14679,6 +14706,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C432108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 675,
+    "known": "2026-07-14",
+    "state": "已认领"
+  },
+  {
     "thread": "C432200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -14700,8 +14736,8 @@
     "thread": "C432300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-16",
     "state": "已认领"
   },
@@ -14751,6 +14787,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C433104",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 672,
+    "accepted": 678,
+    "known": "2026-07-14",
+    "state": "已认领"
+  },
+  {
     "thread": "C433200",
     "origin": "老城馆",
     "destination": "港口",
@@ -14772,8 +14817,8 @@
     "thread": "C433300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-16",
     "state": "已认领"
   },
@@ -14794,15 +14839,6 @@
     "accepted": null,
     "known": "2026-07-17",
     "state": "拒接"
-  },
-  {
-    "thread": "C440004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": 493,
-    "known": "2026-07-15",
-    "state": "已认领"
   },
   {
     "thread": "C440100",
@@ -14844,7 +14880,7 @@
     "thread": "C440300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-07-17",
     "state": "拒接"
@@ -14925,7 +14961,7 @@
     "thread": "C441300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-07-17",
     "state": "拒接"
@@ -14994,19 +15030,10 @@
     "state": "拒接"
   },
   {
-    "thread": "C442204",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 852,
-    "accepted": 853,
-    "known": "2026-07-15",
-    "state": "已认领"
-  },
-  {
     "thread": "C442300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-07-17",
     "state": "拒接"
@@ -15035,6 +15062,15 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 493,
+    "known": "2026-07-15",
+    "state": "已认领"
+  },
+  {
+    "thread": "C443008",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 491,
+    "accepted": 496,
     "known": "2026-07-15",
     "state": "已认领"
   },
@@ -15078,7 +15114,7 @@
     "thread": "C443300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-07-17",
     "state": "拒接"
@@ -15147,11 +15183,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C450208",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 851,
+    "accepted": 857,
+    "known": "2026-07-16",
+    "state": "已认领"
+  },
+  {
     "thread": "C450300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-18",
     "state": "已认领"
   },
@@ -15161,15 +15206,6 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1034,
-    "known": "2026-07-16",
-    "state": "已认领"
-  },
-  {
-    "thread": "C450308",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1031,
-    "accepted": 1037,
     "known": "2026-07-16",
     "state": "已认领"
   },
@@ -15228,12 +15264,30 @@
     "state": "已认领"
   },
   {
+    "thread": "C451208",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 851,
+    "accepted": 857,
+    "known": "2026-07-16",
+    "state": "已认领"
+  },
+  {
     "thread": "C451300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-18",
+    "state": "已认领"
+  },
+  {
+    "thread": "C451304",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1032,
+    "accepted": 1034,
+    "known": "2026-07-16",
     "state": "已认领"
   },
   {
@@ -15273,15 +15327,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C452108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 677,
-    "known": "2026-07-16",
-    "state": "已认领"
-  },
-  {
     "thread": "C452200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -15303,8 +15348,8 @@
     "thread": "C452300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-18",
     "state": "已认领"
   },
@@ -15332,15 +15377,6 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 494,
-    "known": "2026-07-16",
-    "state": "已认领"
-  },
-  {
-    "thread": "C453008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 497,
     "known": "2026-07-16",
     "state": "已认领"
   },
@@ -15384,8 +15420,8 @@
     "thread": "C453300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-18",
     "state": "已认领"
   },
@@ -15405,6 +15441,15 @@
     "offered": 488,
     "accepted": 493,
     "known": "2026-07-19",
+    "state": "已认领"
+  },
+  {
+    "thread": "C460004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 495,
+    "known": "2026-07-17",
     "state": "已认领"
   },
   {
@@ -15465,8 +15510,8 @@
     "thread": "C460300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-19",
     "state": "已认领"
   },
@@ -15492,8 +15537,8 @@
     "thread": "C460312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1035,
+    "offered": 1183,
+    "accepted": 1188,
     "known": "2026-07-17",
     "state": "已认领"
   },
@@ -15530,15 +15575,6 @@
     "destination": "芦湾酒店",
     "offered": 672,
     "accepted": 675,
-    "known": "2026-07-17",
-    "state": "已认领"
-  },
-  {
-    "thread": "C461108",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 671,
-    "accepted": 672,
     "known": "2026-07-17",
     "state": "已认领"
   },
@@ -15582,8 +15618,8 @@
     "thread": "C461300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-19",
     "state": "已认领"
   },
@@ -15609,8 +15645,8 @@
     "thread": "C461312",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1030,
-    "accepted": 1035,
+    "offered": 1183,
+    "accepted": 1188,
     "known": "2026-07-17",
     "state": "已认领"
   },
@@ -15660,15 +15696,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C462108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 672,
-    "known": "2026-07-17",
-    "state": "已认领"
-  },
-  {
     "thread": "C462200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -15696,11 +15723,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C462212",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 850,
+    "accepted": 855,
+    "known": "2026-07-17",
+    "state": "已认领"
+  },
+  {
     "thread": "C462300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-19",
     "state": "已认领"
   },
@@ -15726,8 +15762,8 @@
     "thread": "C462312",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1030,
-    "accepted": 1035,
+    "offered": 1183,
+    "accepted": 1188,
     "known": "2026-07-17",
     "state": "已认领"
   },
@@ -15750,21 +15786,21 @@
     "state": "已认领"
   },
   {
-    "thread": "C463008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 492,
-    "known": "2026-07-17",
-    "state": "已认领"
-  },
-  {
     "thread": "C463100",
     "origin": "老城馆",
     "destination": "港口",
     "offered": 668,
     "accepted": 673,
     "known": "2026-07-19",
+    "state": "已认领"
+  },
+  {
+    "thread": "C463104",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 672,
+    "accepted": 675,
+    "known": "2026-07-17",
     "state": "已认领"
   },
   {
@@ -15798,8 +15834,8 @@
     "thread": "C463300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-19",
     "state": "已认领"
   },
@@ -15818,6 +15854,15 @@
     "destination": "港口",
     "offered": 1031,
     "accepted": 1032,
+    "known": "2026-07-17",
+    "state": "已认领"
+  },
+  {
+    "thread": "C463312",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 1183,
+    "accepted": 1188,
     "known": "2026-07-17",
     "state": "已认领"
   },
@@ -15885,11 +15930,20 @@
     "state": "拒接"
   },
   {
+    "thread": "C470212",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 850,
+    "accepted": 856,
+    "known": "2026-07-18",
+    "state": "已认领"
+  },
+  {
     "thread": "C470300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-20",
     "state": "已认领"
   },
@@ -15915,8 +15969,8 @@
     "thread": "C470312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1036,
+    "offered": 1183,
+    "accepted": 1189,
     "known": "2026-07-18",
     "state": "已认领"
   },
@@ -15966,6 +16020,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C471108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": null,
+    "known": "2026-07-20",
+    "state": "拒接"
+  },
+  {
     "thread": "C471200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -16005,8 +16068,8 @@
     "thread": "C471300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-20",
     "state": "已认领"
   },
@@ -16047,15 +16110,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C472008",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 491,
-    "accepted": null,
-    "known": "2026-07-20",
-    "state": "拒接"
-  },
-  {
     "thread": "C472100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -16072,6 +16126,15 @@
     "accepted": 676,
     "known": "2026-07-18",
     "state": "已认领"
+  },
+  {
+    "thread": "C472108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": null,
+    "known": "2026-07-20",
+    "state": "拒接"
   },
   {
     "thread": "C472200",
@@ -16104,8 +16167,8 @@
     "thread": "C472300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-20",
     "state": "已认领"
   },
@@ -16194,8 +16257,8 @@
     "thread": "C473300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-20",
     "state": "已认领"
   },
@@ -16275,8 +16338,8 @@
     "thread": "C480300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-21",
     "state": "已认领"
   },
@@ -16344,11 +16407,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C481208",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 851,
+    "accepted": 854,
+    "known": "2026-07-19",
+    "state": "已认领"
+  },
+  {
     "thread": "C481300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-21",
     "state": "已认领"
   },
@@ -16389,6 +16461,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C482108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 674,
+    "known": "2026-07-19",
+    "state": "已认领"
+  },
+  {
     "thread": "C482200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -16398,11 +16479,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C482204",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 852,
+    "accepted": 857,
+    "known": "2026-07-19",
+    "state": "已认领"
+  },
+  {
     "thread": "C482300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-21",
     "state": "已认领"
   },
@@ -16482,8 +16572,8 @@
     "thread": "C483300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-21",
     "state": "已认领"
   },
@@ -16512,6 +16602,15 @@
     "offered": 488,
     "accepted": 490,
     "known": "2026-07-22",
+    "state": "已认领"
+  },
+  {
+    "thread": "C490004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 498,
+    "known": "2026-07-20",
     "state": "已认领"
   },
   {
@@ -16572,8 +16671,8 @@
     "thread": "C490300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-22",
     "state": "已认领"
   },
@@ -16599,8 +16698,8 @@
     "thread": "C490312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1032,
+    "offered": 1183,
+    "accepted": 1185,
     "known": "2026-07-20",
     "state": "已认领"
   },
@@ -16680,8 +16779,8 @@
     "thread": "C491300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-22",
     "state": "已认领"
   },
@@ -16707,8 +16806,8 @@
     "thread": "C491312",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1030,
-    "accepted": 1032,
+    "offered": 1183,
+    "accepted": 1185,
     "known": "2026-07-20",
     "state": "已认领"
   },
@@ -16727,15 +16826,6 @@
     "destination": "老城馆",
     "offered": 492,
     "accepted": 498,
-    "known": "2026-07-20",
-    "state": "已认领"
-  },
-  {
-    "thread": "C492008",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 491,
-    "accepted": 495,
     "known": "2026-07-20",
     "state": "已认领"
   },
@@ -16797,8 +16887,8 @@
     "thread": "C492300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-22",
     "state": "已认领"
   },
@@ -16817,15 +16907,6 @@
     "destination": "老城馆",
     "offered": 1031,
     "accepted": 1035,
-    "known": "2026-07-20",
-    "state": "已认领"
-  },
-  {
-    "thread": "C492312",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 1030,
-    "accepted": 1032,
     "known": "2026-07-20",
     "state": "已认领"
   },
@@ -16857,15 +16938,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C493104",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 672,
-    "accepted": 678,
-    "known": "2026-07-20",
-    "state": "已认领"
-  },
-  {
     "thread": "C493200",
     "origin": "老城馆",
     "destination": "港口",
@@ -16893,11 +16965,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C493212",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 850,
+    "accepted": 852,
+    "known": "2026-07-20",
+    "state": "已认领"
+  },
+  {
     "thread": "C493300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-07-22",
     "state": "已认领"
   },
@@ -16923,8 +17004,8 @@
     "thread": "C493312",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1030,
-    "accepted": 1032,
+    "offered": 1183,
+    "accepted": 1185,
     "known": "2026-07-20",
     "state": "已认领"
   },
@@ -16992,11 +17073,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C500212",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 850,
+    "accepted": 853,
+    "known": "2026-07-21",
+    "state": "已认领"
+  },
+  {
     "thread": "C500300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-23",
     "state": "已认领"
   },
@@ -17022,8 +17112,8 @@
     "thread": "C500312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1033,
+    "offered": 1183,
+    "accepted": 1186,
     "known": "2026-07-21",
     "state": "已认领"
   },
@@ -17060,6 +17150,15 @@
     "destination": "芦湾酒店",
     "offered": 672,
     "accepted": 673,
+    "known": "2026-07-21",
+    "state": "已认领"
+  },
+  {
+    "thread": "C501108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 676,
     "known": "2026-07-21",
     "state": "已认领"
   },
@@ -17103,8 +17202,8 @@
     "thread": "C501300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-23",
     "state": "已认领"
   },
@@ -17123,15 +17222,6 @@
     "destination": "芦湾酒店",
     "offered": 1031,
     "accepted": 1036,
-    "known": "2026-07-21",
-    "state": "已认领"
-  },
-  {
-    "thread": "C501312",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1030,
-    "accepted": 1033,
     "known": "2026-07-21",
     "state": "已认领"
   },
@@ -17202,8 +17292,8 @@
     "thread": "C502300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-23",
     "state": "已认领"
   },
@@ -17240,6 +17330,15 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 493,
+    "known": "2026-07-21",
+    "state": "已认领"
+  },
+  {
+    "thread": "C503008",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 491,
+    "accepted": 496,
     "known": "2026-07-21",
     "state": "已认领"
   },
@@ -17301,8 +17400,8 @@
     "thread": "C503300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-23",
     "state": "已认领"
   },
@@ -17321,15 +17420,6 @@
     "destination": "港口",
     "offered": 1031,
     "accepted": 1036,
-    "known": "2026-07-21",
-    "state": "已认领"
-  },
-  {
-    "thread": "C503312",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1030,
-    "accepted": 1033,
     "known": "2026-07-21",
     "state": "已认领"
   },
@@ -17388,20 +17478,11 @@
     "state": "拒接"
   },
   {
-    "thread": "C510208",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 851,
-    "accepted": 857,
-    "known": "2026-07-22",
-    "state": "已认领"
-  },
-  {
     "thread": "C510300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-24",
     "state": "已认领"
   },
@@ -17490,8 +17571,8 @@
     "thread": "C511300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-24",
     "state": "已认领"
   },
@@ -17571,8 +17652,8 @@
     "thread": "C512300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-24",
     "state": "已认领"
   },
@@ -17604,6 +17685,15 @@
     "state": "拒接"
   },
   {
+    "thread": "C513008",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 491,
+    "accepted": 497,
+    "known": "2026-07-22",
+    "state": "已认领"
+  },
+  {
     "thread": "C513100",
     "origin": "老城馆",
     "destination": "港口",
@@ -17611,6 +17701,15 @@
     "accepted": 672,
     "known": "2026-07-24",
     "state": "已认领"
+  },
+  {
+    "thread": "C513104",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 672,
+    "accepted": null,
+    "known": "2026-07-24",
+    "state": "拒接"
   },
   {
     "thread": "C513200",
@@ -17634,8 +17733,8 @@
     "thread": "C513300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-24",
     "state": "已认领"
   },
@@ -17647,15 +17746,6 @@
     "accepted": null,
     "known": "2026-07-24",
     "state": "拒接"
-  },
-  {
-    "thread": "C513308",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1031,
-    "accepted": 1037,
-    "known": "2026-07-22",
-    "state": "已认领"
   },
   {
     "thread": "C520000",
@@ -17715,8 +17805,8 @@
     "thread": "C520300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-25",
     "state": "已认领"
   },
@@ -17796,9 +17886,18 @@
     "thread": "C521300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-25",
+    "state": "已认领"
+  },
+  {
+    "thread": "C521304",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1032,
+    "accepted": 1035,
+    "known": "2026-07-23",
     "state": "已认领"
   },
   {
@@ -17820,15 +17919,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C522008",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 491,
-    "accepted": 492,
-    "known": "2026-07-23",
-    "state": "已认领"
-  },
-  {
     "thread": "C522100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -17843,6 +17933,15 @@
     "destination": "老城馆",
     "offered": 672,
     "accepted": 675,
+    "known": "2026-07-23",
+    "state": "已认领"
+  },
+  {
+    "thread": "C522108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 672,
     "known": "2026-07-23",
     "state": "已认领"
   },
@@ -17868,8 +17967,8 @@
     "thread": "C522300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-25",
     "state": "已认领"
   },
@@ -17940,8 +18039,8 @@
     "thread": "C523300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-25",
     "state": "已认领"
   },
@@ -17961,15 +18060,6 @@
     "offered": 488,
     "accepted": 494,
     "known": "2026-07-26",
-    "state": "已认领"
-  },
-  {
-    "thread": "C530004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": 496,
-    "known": "2026-07-24",
     "state": "已认领"
   },
   {
@@ -18030,8 +18120,8 @@
     "thread": "C530300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-26",
     "state": "已认领"
   },
@@ -18050,15 +18140,6 @@
     "destination": "滨海馆",
     "offered": 1031,
     "accepted": 1033,
-    "known": "2026-07-24",
-    "state": "已认领"
-  },
-  {
-    "thread": "C530312",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1036,
     "known": "2026-07-24",
     "state": "已认领"
   },
@@ -18095,15 +18176,6 @@
     "destination": "芦湾酒店",
     "offered": 672,
     "accepted": 676,
-    "known": "2026-07-24",
-    "state": "已认领"
-  },
-  {
-    "thread": "C531108",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 671,
-    "accepted": 673,
     "known": "2026-07-24",
     "state": "已认领"
   },
@@ -18147,8 +18219,8 @@
     "thread": "C531300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-26",
     "state": "已认领"
   },
@@ -18174,8 +18246,8 @@
     "thread": "C531312",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1030,
-    "accepted": 1036,
+    "offered": 1183,
+    "accepted": 1189,
     "known": "2026-07-24",
     "state": "已认领"
   },
@@ -18246,8 +18318,8 @@
     "thread": "C532300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-26",
     "state": "已认领"
   },
@@ -18345,8 +18417,8 @@
     "thread": "C533300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-07-26",
     "state": "已认领"
   },
@@ -18365,15 +18437,6 @@
     "destination": "港口",
     "offered": 1031,
     "accepted": 1033,
-    "known": "2026-07-24",
-    "state": "已认领"
-  },
-  {
-    "thread": "C533312",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1030,
-    "accepted": 1036,
     "known": "2026-07-24",
     "state": "已认领"
   },
@@ -18444,8 +18507,8 @@
     "thread": "C540300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-27",
     "state": "已认领"
   },
@@ -18471,7 +18534,7 @@
     "thread": "C540312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
+    "offered": 1183,
     "accepted": null,
     "known": "2026-07-27",
     "state": "待认领"
@@ -18552,8 +18615,8 @@
     "thread": "C541300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-27",
     "state": "已认领"
   },
@@ -18574,15 +18637,6 @@
     "accepted": 1034,
     "known": "2026-07-25",
     "state": "已认领"
-  },
-  {
-    "thread": "C541312",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1030,
-    "accepted": null,
-    "known": "2026-07-27",
-    "state": "待认领"
   },
   {
     "thread": "C542000",
@@ -18660,8 +18714,8 @@
     "thread": "C542300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-27",
     "state": "已认领"
   },
@@ -18747,11 +18801,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C543212",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 850,
+    "accepted": null,
+    "known": "2026-07-27",
+    "state": "待认领"
+  },
+  {
     "thread": "C543300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-07-27",
     "state": "已认领"
   },
@@ -18777,7 +18840,7 @@
     "thread": "C543312",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1030,
+    "offered": 1183,
     "accepted": null,
     "known": "2026-07-27",
     "state": "待认领"
@@ -18837,19 +18900,10 @@
     "state": "已认领"
   },
   {
-    "thread": "C550208",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 851,
-    "accepted": 855,
-    "known": "2026-07-26",
-    "state": "已认领"
-  },
-  {
     "thread": "C550300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-07-28",
     "state": "拒接"
@@ -18860,15 +18914,6 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1038,
-    "known": "2026-07-26",
-    "state": "已认领"
-  },
-  {
-    "thread": "C550308",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1031,
-    "accepted": 1035,
     "known": "2026-07-26",
     "state": "已认领"
   },
@@ -18909,15 +18954,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C551108",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 671,
-    "accepted": 675,
-    "known": "2026-07-26",
-    "state": "已认领"
-  },
-  {
     "thread": "C551200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -18948,19 +18984,10 @@
     "thread": "C551300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-07-28",
     "state": "拒接"
-  },
-  {
-    "thread": "C551304",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1032,
-    "accepted": 1038,
-    "known": "2026-07-26",
-    "state": "已认领"
   },
   {
     "thread": "C552000",
@@ -18999,6 +19026,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C552108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 675,
+    "known": "2026-07-26",
+    "state": "已认领"
+  },
+  {
     "thread": "C552200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -19008,10 +19044,19 @@
     "state": "拒接"
   },
   {
+    "thread": "C552204",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 852,
+    "accepted": 858,
+    "known": "2026-07-26",
+    "state": "已认领"
+  },
+  {
     "thread": "C552300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-07-28",
     "state": "拒接"
@@ -19053,6 +19098,15 @@
     "state": "拒接"
   },
   {
+    "thread": "C553104",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 672,
+    "accepted": 678,
+    "known": "2026-07-26",
+    "state": "已认领"
+  },
+  {
     "thread": "C553200",
     "origin": "老城馆",
     "destination": "港口",
@@ -19074,7 +19128,7 @@
     "thread": "C553300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-07-28",
     "state": "拒接"
@@ -19085,15 +19139,6 @@
     "destination": "港口",
     "offered": 1032,
     "accepted": 1038,
-    "known": "2026-07-26",
-    "state": "已认领"
-  },
-  {
-    "thread": "C553308",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1031,
-    "accepted": 1035,
     "known": "2026-07-26",
     "state": "已认领"
   },
@@ -19155,8 +19200,8 @@
     "thread": "C560300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-29",
     "state": "已认领"
   },
@@ -19236,18 +19281,9 @@
     "thread": "C561300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-29",
-    "state": "已认领"
-  },
-  {
-    "thread": "C561304",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1032,
-    "accepted": 1033,
-    "known": "2026-07-27",
     "state": "已认领"
   },
   {
@@ -19287,15 +19323,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C562108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 676,
-    "known": "2026-07-27",
-    "state": "已认领"
-  },
-  {
     "thread": "C562200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -19305,20 +19332,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C562204",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 852,
-    "accepted": 853,
-    "known": "2026-07-27",
-    "state": "已认领"
-  },
-  {
     "thread": "C562300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-29",
     "state": "已认领"
   },
@@ -19368,6 +19386,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C563104",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 672,
+    "accepted": 673,
+    "known": "2026-07-27",
+    "state": "已认领"
+  },
+  {
     "thread": "C563200",
     "origin": "老城馆",
     "destination": "港口",
@@ -19389,8 +19416,8 @@
     "thread": "C563300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-07-29",
     "state": "已认领"
   },
@@ -19400,15 +19427,6 @@
     "destination": "港口",
     "offered": 1032,
     "accepted": 1033,
-    "known": "2026-07-27",
-    "state": "已认领"
-  },
-  {
-    "thread": "C563308",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1031,
-    "accepted": 1036,
     "known": "2026-07-27",
     "state": "已认领"
   },
@@ -19467,20 +19485,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C570208",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 851,
-    "accepted": 857,
-    "known": "2026-07-28",
-    "state": "已认领"
-  },
-  {
     "thread": "C570300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-30",
     "state": "已认领"
   },
@@ -19490,15 +19499,6 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1034,
-    "known": "2026-07-28",
-    "state": "已认领"
-  },
-  {
-    "thread": "C570308",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1031,
-    "accepted": 1037,
     "known": "2026-07-28",
     "state": "已认领"
   },
@@ -19539,15 +19539,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C571108",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 671,
-    "accepted": 677,
-    "known": "2026-07-28",
-    "state": "已认领"
-  },
-  {
     "thread": "C571200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -19566,11 +19557,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C571208",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 851,
+    "accepted": 857,
+    "known": "2026-07-28",
+    "state": "已认领"
+  },
+  {
     "thread": "C571300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-30",
     "state": "已认领"
   },
@@ -19598,15 +19598,6 @@
     "destination": "老城馆",
     "offered": 492,
     "accepted": 494,
-    "known": "2026-07-28",
-    "state": "已认领"
-  },
-  {
-    "thread": "C572008",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 491,
-    "accepted": 497,
     "known": "2026-07-28",
     "state": "已认领"
   },
@@ -19650,8 +19641,8 @@
     "thread": "C572300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-30",
     "state": "已认领"
   },
@@ -19731,8 +19722,8 @@
     "thread": "C573300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-07-30",
     "state": "已认领"
   },
@@ -19800,11 +19791,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C580208",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 851,
+    "accepted": null,
+    "known": "2026-07-31",
+    "state": "待认领"
+  },
+  {
     "thread": "C580300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-31",
     "state": "已认领"
   },
@@ -19863,6 +19863,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C581108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": null,
+    "known": "2026-07-31",
+    "state": "待认领"
+  },
+  {
     "thread": "C581200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -19884,18 +19893,9 @@
     "thread": "C581300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-31",
-    "state": "已认领"
-  },
-  {
-    "thread": "C581304",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1032,
-    "accepted": 1035,
-    "known": "2026-07-29",
     "state": "已认领"
   },
   {
@@ -19953,11 +19953,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C582204",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 852,
+    "accepted": 855,
+    "known": "2026-07-29",
+    "state": "已认领"
+  },
+  {
     "thread": "C582300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-31",
     "state": "已认领"
   },
@@ -19987,6 +19996,15 @@
     "accepted": 495,
     "known": "2026-07-29",
     "state": "已认领"
+  },
+  {
+    "thread": "C583008",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 491,
+    "accepted": null,
+    "known": "2026-07-31",
+    "state": "待认领"
   },
   {
     "thread": "C583100",
@@ -20019,8 +20037,8 @@
     "thread": "C583300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-07-31",
     "state": "已认领"
   },
@@ -20040,6 +20058,15 @@
     "offered": 488,
     "accepted": 494,
     "known": "2026-08-01",
+    "state": "已认领"
+  },
+  {
+    "thread": "C590004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 496,
+    "known": "2026-07-30",
     "state": "已认领"
   },
   {
@@ -20079,20 +20106,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C590208",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 851,
-    "accepted": 853,
-    "known": "2026-07-30",
-    "state": "已认领"
-  },
-  {
     "thread": "C590300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-08-01",
     "state": "已认领"
   },
@@ -20142,6 +20160,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C591108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 673,
+    "known": "2026-07-30",
+    "state": "已认领"
+  },
+  {
     "thread": "C591200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -20160,20 +20187,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C591208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 853,
-    "known": "2026-07-30",
-    "state": "已认领"
-  },
-  {
     "thread": "C591300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-08-01",
     "state": "已认领"
   },
@@ -20205,6 +20223,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C592008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 493,
+    "known": "2026-07-30",
+    "state": "已认领"
+  },
+  {
     "thread": "C592100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -20232,20 +20259,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C592204",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 852,
-    "accepted": 856,
-    "known": "2026-07-30",
-    "state": "已认领"
-  },
-  {
     "thread": "C592300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-08-01",
     "state": "已认领"
   },
@@ -20295,15 +20313,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C593104",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 672,
-    "accepted": 676,
-    "known": "2026-07-30",
-    "state": "已认领"
-  },
-  {
     "thread": "C593200",
     "origin": "老城馆",
     "destination": "港口",
@@ -20325,8 +20334,8 @@
     "thread": "C593300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-08-01",
     "state": "已认领"
   },
@@ -20336,6 +20345,15 @@
     "destination": "港口",
     "offered": 1032,
     "accepted": 1036,
+    "known": "2026-07-30",
+    "state": "已认领"
+  },
+  {
+    "thread": "C593308",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 1031,
+    "accepted": 1033,
     "known": "2026-07-30",
     "state": "已认领"
   },
@@ -20415,8 +20433,8 @@
     "thread": "C600300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-08-02",
     "state": "已认领"
   },
@@ -20442,17 +20460,8 @@
     "thread": "C600312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1031,
-    "known": "2026-07-31",
-    "state": "已认领"
-  },
-  {
-    "thread": "C600316",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1029,
-    "accepted": 1034,
+    "offered": 1183,
+    "accepted": 1184,
     "known": "2026-07-31",
     "state": "已认领"
   },
@@ -20532,8 +20541,8 @@
     "thread": "C601300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-08-02",
     "state": "已认领"
   },
@@ -20601,6 +20610,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C602108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 674,
+    "known": "2026-07-31",
+    "state": "已认领"
+  },
+  {
     "thread": "C602200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -20631,8 +20649,8 @@
     "thread": "C602300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-08-02",
     "state": "已认领"
   },
@@ -20651,15 +20669,6 @@
     "destination": "老城馆",
     "offered": 1031,
     "accepted": 1034,
-    "known": "2026-07-31",
-    "state": "已认领"
-  },
-  {
-    "thread": "C602312",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 1030,
-    "accepted": 1031,
     "known": "2026-07-31",
     "state": "已认领"
   },
@@ -20730,8 +20739,8 @@
     "thread": "C603300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-08-02",
     "state": "已认领"
   },
@@ -20757,8 +20766,8 @@
     "thread": "C603312",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1030,
-    "accepted": 1031,
+    "offered": 1183,
+    "accepted": 1184,
     "known": "2026-07-31",
     "state": "已认领"
   },
@@ -20826,11 +20835,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C610212",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 850,
+    "accepted": 852,
+    "known": "2026-08-01",
+    "state": "已认领"
+  },
+  {
     "thread": "C610300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-08-03",
     "state": "已认领"
   },
@@ -20856,8 +20874,8 @@
     "thread": "C610312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1032,
+    "offered": 1183,
+    "accepted": 1185,
     "known": "2026-08-01",
     "state": "已认领"
   },
@@ -20894,15 +20912,6 @@
     "destination": "芦湾酒店",
     "offered": 672,
     "accepted": 678,
-    "known": "2026-08-01",
-    "state": "已认领"
-  },
-  {
-    "thread": "C611108",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 671,
-    "accepted": 675,
     "known": "2026-08-01",
     "state": "已认领"
   },
@@ -20946,8 +20955,8 @@
     "thread": "C611300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-08-03",
     "state": "已认领"
   },
@@ -21006,15 +21015,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C612108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 675,
-    "known": "2026-08-01",
-    "state": "已认领"
-  },
-  {
     "thread": "C612200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -21045,8 +21045,8 @@
     "thread": "C612300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-08-03",
     "state": "已认领"
   },
@@ -21083,15 +21083,6 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 498,
-    "known": "2026-08-01",
-    "state": "已认领"
-  },
-  {
-    "thread": "C613008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 495,
     "known": "2026-08-01",
     "state": "已认领"
   },
@@ -21141,11 +21132,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C613212",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 850,
+    "accepted": 852,
+    "known": "2026-08-01",
+    "state": "已认领"
+  },
+  {
     "thread": "C613300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-08-03",
     "state": "已认领"
   },
@@ -21168,15 +21168,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C613312",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1030,
-    "accepted": 1032,
-    "known": "2026-08-01",
-    "state": "已认领"
-  },
-  {
     "thread": "C620000",
     "origin": "港口",
     "destination": "滨海馆",
@@ -21184,15 +21175,6 @@
     "accepted": 491,
     "known": "2026-08-04",
     "state": "已认领"
-  },
-  {
-    "thread": "C620004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": null,
-    "known": "2026-08-04",
-    "state": "待认领"
   },
   {
     "thread": "C620100",
@@ -21231,20 +21213,11 @@
     "state": "待认领"
   },
   {
-    "thread": "C620208",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 851,
-    "accepted": 856,
-    "known": "2026-08-02",
-    "state": "已认领"
-  },
-  {
     "thread": "C620300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-08-04",
     "state": "已认领"
   },
@@ -21256,15 +21229,6 @@
     "accepted": null,
     "known": "2026-08-04",
     "state": "待认领"
-  },
-  {
-    "thread": "C620308",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1031,
-    "accepted": 1036,
-    "known": "2026-08-02",
-    "state": "已认领"
   },
   {
     "thread": "C621000",
@@ -21321,20 +21285,11 @@
     "state": "待认领"
   },
   {
-    "thread": "C621208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 856,
-    "known": "2026-08-02",
-    "state": "已认领"
-  },
-  {
     "thread": "C621300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-08-04",
     "state": "已认领"
   },
@@ -21414,8 +21369,8 @@
     "thread": "C622300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-08-04",
     "state": "已认领"
   },
@@ -21465,6 +21420,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C623104",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 672,
+    "accepted": null,
+    "known": "2026-08-04",
+    "state": "待认领"
+  },
+  {
     "thread": "C623200",
     "origin": "老城馆",
     "destination": "港口",
@@ -21486,8 +21450,8 @@
     "thread": "C623300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-08-04",
     "state": "已认领"
   },
@@ -21558,8 +21522,8 @@
     "thread": "C630300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-08-05",
     "state": "已认领"
   },
@@ -21569,6 +21533,15 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1034,
+    "known": "2026-08-03",
+    "state": "已认领"
+  },
+  {
+    "thread": "C630308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1037,
     "known": "2026-08-03",
     "state": "已认领"
   },
@@ -21627,11 +21600,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C631208",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 851,
+    "accepted": 857,
+    "known": "2026-08-03",
+    "state": "已认领"
+  },
+  {
     "thread": "C631300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-08-05",
     "state": "已认领"
   },
@@ -21663,6 +21645,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C632008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 497,
+    "known": "2026-08-03",
+    "state": "已认领"
+  },
+  {
     "thread": "C632100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -21681,15 +21672,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C632108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 677,
-    "known": "2026-08-03",
-    "state": "已认领"
-  },
-  {
     "thread": "C632200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -21699,11 +21681,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C632204",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 852,
+    "accepted": 854,
+    "known": "2026-08-03",
+    "state": "已认领"
+  },
+  {
     "thread": "C632300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-08-05",
     "state": "已认领"
   },
@@ -21783,8 +21774,8 @@
     "thread": "C633300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-08-05",
     "state": "已认领"
   },
@@ -21804,6 +21795,15 @@
     "offered": 488,
     "accepted": 493,
     "known": "2026-08-06",
+    "state": "已认领"
+  },
+  {
+    "thread": "C640004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 495,
+    "known": "2026-08-04",
     "state": "已认领"
   },
   {
@@ -21846,8 +21846,8 @@
     "thread": "C640300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-08-06",
     "state": "已认领"
   },
@@ -21906,6 +21906,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C641108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 672,
+    "known": "2026-08-04",
+    "state": "已认领"
+  },
+  {
     "thread": "C641200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -21936,18 +21945,9 @@
     "thread": "C641300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-08-06",
-    "state": "已认领"
-  },
-  {
-    "thread": "C641304",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1032,
-    "accepted": 1035,
-    "known": "2026-08-04",
     "state": "已认领"
   },
   {
@@ -21969,6 +21969,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C642008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 492,
+    "known": "2026-08-04",
+    "state": "已认领"
+  },
+  {
     "thread": "C642100",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -21983,15 +21992,6 @@
     "destination": "老城馆",
     "offered": 672,
     "accepted": 675,
-    "known": "2026-08-04",
-    "state": "已认领"
-  },
-  {
-    "thread": "C642108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 672,
     "known": "2026-08-04",
     "state": "已认领"
   },
@@ -22017,8 +22017,8 @@
     "thread": "C642300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-08-06",
     "state": "已认领"
   },
@@ -22089,8 +22089,8 @@
     "thread": "C643300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-08-06",
     "state": "已认领"
   },
@@ -22100,15 +22100,6 @@
     "destination": "港口",
     "offered": 1032,
     "accepted": 1035,
-    "known": "2026-08-04",
-    "state": "已认领"
-  },
-  {
-    "thread": "C643308",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1031,
-    "accepted": 1032,
     "known": "2026-08-04",
     "state": "已认领"
   },
@@ -22167,11 +22158,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C650208",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 851,
+    "accepted": 853,
+    "known": "2026-08-05",
+    "state": "已认领"
+  },
+  {
     "thread": "C650300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-08-07",
     "state": "已认领"
   },
@@ -22181,6 +22181,15 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1036,
+    "known": "2026-08-05",
+    "state": "已认领"
+  },
+  {
+    "thread": "C650308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1033,
     "known": "2026-08-05",
     "state": "已认领"
   },
@@ -22221,15 +22230,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C651108",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 671,
-    "accepted": 673,
-    "known": "2026-08-05",
-    "state": "已认领"
-  },
-  {
     "thread": "C651200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -22251,8 +22251,8 @@
     "thread": "C651300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-08-07",
     "state": "已认领"
   },
@@ -22280,6 +22280,15 @@
     "destination": "老城馆",
     "offered": 492,
     "accepted": 496,
+    "known": "2026-08-05",
+    "state": "已认领"
+  },
+  {
+    "thread": "C652008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 493,
     "known": "2026-08-05",
     "state": "已认领"
   },
@@ -22332,8 +22341,8 @@
     "thread": "C652300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-08-07",
     "state": "已认领"
   },
@@ -22413,8 +22422,8 @@
     "thread": "C653300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-08-07",
     "state": "已认领"
   },
@@ -22444,15 +22453,6 @@
     "accepted": null,
     "known": "2026-08-08",
     "state": "待认领"
-  },
-  {
-    "thread": "C660004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": 497,
-    "known": "2026-08-06",
-    "state": "已认领"
   },
   {
     "thread": "C660100",
@@ -22512,7 +22512,7 @@
     "thread": "C660300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-08-08",
     "state": "待认领"
@@ -22539,8 +22539,8 @@
     "thread": "C660312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1031,
+    "offered": 1183,
+    "accepted": 1184,
     "known": "2026-08-06",
     "state": "已认领"
   },
@@ -22620,7 +22620,7 @@
     "thread": "C661300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-08-08",
     "state": "待认领"
@@ -22640,6 +22640,15 @@
     "destination": "芦湾酒店",
     "offered": 1031,
     "accepted": 1034,
+    "known": "2026-08-06",
+    "state": "已认领"
+  },
+  {
+    "thread": "C661312",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1183,
+    "accepted": 1184,
     "known": "2026-08-06",
     "state": "已认领"
   },
@@ -22676,15 +22685,6 @@
     "destination": "老城馆",
     "offered": 672,
     "accepted": 677,
-    "known": "2026-08-06",
-    "state": "已认领"
-  },
-  {
-    "thread": "C662108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 674,
     "known": "2026-08-06",
     "state": "已认领"
   },
@@ -22728,7 +22728,7 @@
     "thread": "C662300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-08-08",
     "state": "待认领"
@@ -22748,15 +22748,6 @@
     "destination": "老城馆",
     "offered": 1031,
     "accepted": 1034,
-    "known": "2026-08-06",
-    "state": "已认领"
-  },
-  {
-    "thread": "C662312",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 1030,
-    "accepted": 1031,
     "known": "2026-08-06",
     "state": "已认领"
   },
@@ -22824,10 +22815,19 @@
     "state": "已认领"
   },
   {
+    "thread": "C663212",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 850,
+    "accepted": 851,
+    "known": "2026-08-06",
+    "state": "已认领"
+  },
+  {
     "thread": "C663300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
+    "offered": 1158,
     "accepted": null,
     "known": "2026-08-08",
     "state": "待认领"
@@ -22854,8 +22854,8 @@
     "thread": "C663312",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1030,
-    "accepted": 1031,
+    "offered": 1183,
+    "accepted": 1184,
     "known": "2026-08-06",
     "state": "已认领"
   },
@@ -22866,6 +22866,15 @@
     "offered": 488,
     "accepted": 490,
     "known": "2026-08-09",
+    "state": "已认领"
+  },
+  {
+    "thread": "C670004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 498,
+    "known": "2026-08-07",
     "state": "已认领"
   },
   {
@@ -22914,20 +22923,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C670212",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 850,
-    "accepted": 852,
-    "known": "2026-08-07",
-    "state": "已认领"
-  },
-  {
     "thread": "C670300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-08-09",
     "state": "已认领"
   },
@@ -22946,15 +22946,6 @@
     "destination": "滨海馆",
     "offered": 1031,
     "accepted": 1035,
-    "known": "2026-08-07",
-    "state": "已认领"
-  },
-  {
-    "thread": "C670312",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1032,
     "known": "2026-08-07",
     "state": "已认领"
   },
@@ -22995,6 +22986,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C671108",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 671,
+    "accepted": 675,
+    "known": "2026-08-07",
+    "state": "已认领"
+  },
+  {
     "thread": "C671200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -23022,11 +23022,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C671212",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 850,
+    "accepted": 852,
+    "known": "2026-08-07",
+    "state": "已认领"
+  },
+  {
     "thread": "C671300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-08-09",
     "state": "已认领"
   },
@@ -23085,6 +23094,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C672108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 675,
+    "known": "2026-08-07",
+    "state": "已认领"
+  },
+  {
     "thread": "C672200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -23115,8 +23133,8 @@
     "thread": "C672300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-08-09",
     "state": "已认领"
   },
@@ -23135,15 +23153,6 @@
     "destination": "老城馆",
     "offered": 1031,
     "accepted": 1035,
-    "known": "2026-08-07",
-    "state": "已认领"
-  },
-  {
-    "thread": "C672312",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 1030,
-    "accepted": 1032,
     "known": "2026-08-07",
     "state": "已认领"
   },
@@ -23211,20 +23220,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C673212",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 850,
-    "accepted": 852,
-    "known": "2026-08-07",
-    "state": "已认领"
-  },
-  {
     "thread": "C673300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-08-09",
     "state": "已认领"
   },
@@ -23243,15 +23243,6 @@
     "destination": "港口",
     "offered": 1031,
     "accepted": 1035,
-    "known": "2026-08-07",
-    "state": "已认领"
-  },
-  {
-    "thread": "C673312",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1030,
-    "accepted": 1032,
     "known": "2026-08-07",
     "state": "已认领"
   },
@@ -23331,8 +23322,8 @@
     "thread": "C680300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-08-10",
     "state": "已认领"
   },
@@ -23351,6 +23342,15 @@
     "destination": "滨海馆",
     "offered": 1031,
     "accepted": 1036,
+    "known": "2026-08-08",
+    "state": "已认领"
+  },
+  {
+    "thread": "C680312",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1183,
+    "accepted": 1186,
     "known": "2026-08-08",
     "state": "已认领"
   },
@@ -23430,8 +23430,8 @@
     "thread": "C681300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-08-10",
     "state": "已认领"
   },
@@ -23450,6 +23450,15 @@
     "destination": "芦湾酒店",
     "offered": 1031,
     "accepted": 1036,
+    "known": "2026-08-08",
+    "state": "已认领"
+  },
+  {
+    "thread": "C681312",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1183,
+    "accepted": 1186,
     "known": "2026-08-08",
     "state": "已认领"
   },
@@ -23499,6 +23508,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C682108",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 671,
+    "accepted": 676,
+    "known": "2026-08-08",
+    "state": "已认领"
+  },
+  {
     "thread": "C682200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -23526,11 +23544,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C682212",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 850,
+    "accepted": 853,
+    "known": "2026-08-08",
+    "state": "已认领"
+  },
+  {
     "thread": "C682300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-08-10",
     "state": "已认领"
   },
@@ -23553,6 +23580,15 @@
     "state": "已认领"
   },
   {
+    "thread": "C682312",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 1183,
+    "accepted": 1186,
+    "known": "2026-08-08",
+    "state": "已认领"
+  },
+  {
     "thread": "C683000",
     "origin": "老城馆",
     "destination": "港口",
@@ -23567,6 +23603,15 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 493,
+    "known": "2026-08-08",
+    "state": "已认领"
+  },
+  {
+    "thread": "C683008",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 491,
+    "accepted": 496,
     "known": "2026-08-08",
     "state": "已认领"
   },
@@ -23616,20 +23661,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C683212",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 850,
-    "accepted": 853,
-    "known": "2026-08-08",
-    "state": "已认领"
-  },
-  {
     "thread": "C683300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-08-10",
     "state": "已认领"
   },
@@ -23648,15 +23684,6 @@
     "destination": "港口",
     "offered": 1031,
     "accepted": 1036,
-    "known": "2026-08-08",
-    "state": "已认领"
-  },
-  {
-    "thread": "C683312",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1030,
-    "accepted": 1033,
     "known": "2026-08-08",
     "state": "已认领"
   },
@@ -23718,8 +23745,8 @@
     "thread": "C690300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-08-11",
     "state": "已认领"
   },
@@ -23796,12 +23823,30 @@
     "state": "已认领"
   },
   {
+    "thread": "C691208",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 851,
+    "accepted": null,
+    "known": "2026-08-11",
+    "state": "拒接"
+  },
+  {
     "thread": "C691300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-08-11",
+    "state": "已认领"
+  },
+  {
+    "thread": "C691304",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1032,
+    "accepted": 1034,
+    "known": "2026-08-09",
     "state": "已认领"
   },
   {
@@ -23821,6 +23866,15 @@
     "accepted": 494,
     "known": "2026-08-09",
     "state": "已认领"
+  },
+  {
+    "thread": "C692008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": null,
+    "known": "2026-08-11",
+    "state": "拒接"
   },
   {
     "thread": "C692100",
@@ -23871,8 +23925,8 @@
     "thread": "C692300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-08-11",
     "state": "已认领"
   },
@@ -23904,21 +23958,21 @@
     "state": "已认领"
   },
   {
-    "thread": "C693008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": null,
-    "known": "2026-08-11",
-    "state": "拒接"
-  },
-  {
     "thread": "C693100",
     "origin": "老城馆",
     "destination": "港口",
     "offered": 668,
     "accepted": 672,
     "known": "2026-08-11",
+    "state": "已认领"
+  },
+  {
+    "thread": "C693104",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 672,
+    "accepted": 674,
+    "known": "2026-08-09",
     "state": "已认领"
   },
   {
@@ -23943,8 +23997,8 @@
     "thread": "C693300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1032,
+    "offered": 1158,
+    "accepted": 1162,
     "known": "2026-08-11",
     "state": "已认领"
   },
@@ -23958,21 +24012,21 @@
     "state": "已认领"
   },
   {
-    "thread": "C693308",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 1031,
-    "accepted": null,
-    "known": "2026-08-11",
-    "state": "拒接"
-  },
-  {
     "thread": "C700000",
     "origin": "港口",
     "destination": "滨海馆",
     "offered": 488,
     "accepted": 493,
     "known": "2026-08-12",
+    "state": "已认领"
+  },
+  {
+    "thread": "C700004",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 492,
+    "accepted": 495,
+    "known": "2026-08-10",
     "state": "已认领"
   },
   {
@@ -24015,8 +24069,8 @@
     "thread": "C700300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-08-12",
     "state": "已认领"
   },
@@ -24026,6 +24080,15 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1035,
+    "known": "2026-08-10",
+    "state": "已认领"
+  },
+  {
+    "thread": "C700308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1032,
     "known": "2026-08-10",
     "state": "已认领"
   },
@@ -24066,15 +24129,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C701108",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 671,
-    "accepted": 672,
-    "known": "2026-08-10",
-    "state": "已认领"
-  },
-  {
     "thread": "C701200",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
@@ -24093,12 +24147,30 @@
     "state": "已认领"
   },
   {
+    "thread": "C701208",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 851,
+    "accepted": 852,
+    "known": "2026-08-10",
+    "state": "已认领"
+  },
+  {
     "thread": "C701300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-08-12",
+    "state": "已认领"
+  },
+  {
+    "thread": "C701304",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 1032,
+    "accepted": 1035,
+    "known": "2026-08-10",
     "state": "已认领"
   },
   {
@@ -24138,15 +24210,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C702108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 672,
-    "known": "2026-08-10",
-    "state": "已认领"
-  },
-  {
     "thread": "C702200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -24168,8 +24231,8 @@
     "thread": "C702300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-08-12",
     "state": "已认领"
   },
@@ -24201,12 +24264,30 @@
     "state": "已认领"
   },
   {
+    "thread": "C703008",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 491,
+    "accepted": 492,
+    "known": "2026-08-10",
+    "state": "已认领"
+  },
+  {
     "thread": "C703100",
     "origin": "老城馆",
     "destination": "港口",
     "offered": 668,
     "accepted": 673,
     "known": "2026-08-12",
+    "state": "已认领"
+  },
+  {
+    "thread": "C703104",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 672,
+    "accepted": 675,
+    "known": "2026-08-10",
     "state": "已认领"
   },
   {
@@ -24231,8 +24312,8 @@
     "thread": "C703300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1033,
+    "offered": 1158,
+    "accepted": 1163,
     "known": "2026-08-12",
     "state": "已认领"
   },
@@ -24285,8 +24366,8 @@
     "thread": "C710300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-08-13",
     "state": "已认领"
   },
@@ -24296,6 +24377,15 @@
     "destination": "滨海馆",
     "offered": 1032,
     "accepted": 1036,
+    "known": "2026-08-11",
+    "state": "已认领"
+  },
+  {
+    "thread": "C710308",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 1031,
+    "accepted": 1033,
     "known": "2026-08-11",
     "state": "已认领"
   },
@@ -24345,20 +24435,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C711208",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 851,
-    "accepted": 853,
-    "known": "2026-08-11",
-    "state": "已认领"
-  },
-  {
     "thread": "C711300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-08-13",
     "state": "已认领"
   },
@@ -24390,15 +24471,6 @@
     "state": "已认领"
   },
   {
-    "thread": "C712108",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 671,
-    "accepted": 673,
-    "known": "2026-08-11",
-    "state": "已认领"
-  },
-  {
     "thread": "C712200",
     "origin": "芦湾酒店",
     "destination": "老城馆",
@@ -24411,8 +24483,8 @@
     "thread": "C712300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-08-13",
     "state": "已认领"
   },
@@ -24440,15 +24512,6 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 496,
-    "known": "2026-08-11",
-    "state": "已认领"
-  },
-  {
-    "thread": "C713008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 493,
     "known": "2026-08-11",
     "state": "已认领"
   },
@@ -24483,8 +24546,8 @@
     "thread": "C713300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1034,
+    "offered": 1158,
+    "accepted": 1164,
     "known": "2026-08-13",
     "state": "已认领"
   },
@@ -24505,15 +24568,6 @@
     "accepted": 504,
     "known": "2026-08-16",
     "state": "更正已认领"
-  },
-  {
-    "thread": "C720004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": 497,
-    "known": "2026-08-12",
-    "state": "已认领"
   },
   {
     "thread": "C720100",
@@ -24570,20 +24624,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C720208",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 851,
-    "accepted": 854,
-    "known": "2026-08-12",
-    "state": "已认领"
-  },
-  {
     "thread": "C720300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-08-14",
     "state": "已认领"
   },
@@ -24591,8 +24636,8 @@
     "thread": "C720300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1044,
+    "offered": 1158,
+    "accepted": 1174,
     "known": "2026-08-16",
     "state": "更正已认领"
   },
@@ -24687,11 +24732,20 @@
     "state": "已认领"
   },
   {
+    "thread": "C721208",
+    "origin": "滨海馆",
+    "destination": "芦湾酒店",
+    "offered": 851,
+    "accepted": 854,
+    "known": "2026-08-12",
+    "state": "已认领"
+  },
+  {
     "thread": "C721300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-08-14",
     "state": "已认领"
   },
@@ -24699,19 +24753,10 @@
     "thread": "C721300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1044,
+    "offered": 1158,
+    "accepted": 1174,
     "known": "2026-08-16",
     "state": "更正已认领"
-  },
-  {
-    "thread": "C721304",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 1032,
-    "accepted": 1037,
-    "known": "2026-08-12",
-    "state": "已认领"
   },
   {
     "thread": "C722000",
@@ -24798,8 +24843,8 @@
     "thread": "C722300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-08-14",
     "state": "已认领"
   },
@@ -24807,8 +24852,8 @@
     "thread": "C722300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1044,
+    "offered": 1158,
+    "accepted": 1174,
     "known": "2026-08-16",
     "state": "更正已认领"
   },
@@ -24845,15 +24890,6 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 497,
-    "known": "2026-08-12",
-    "state": "已认领"
-  },
-  {
-    "thread": "C723008",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 491,
-    "accepted": 494,
     "known": "2026-08-12",
     "state": "已认领"
   },
@@ -24915,8 +24951,8 @@
     "thread": "C723300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1029,
+    "offered": 1158,
+    "accepted": 1159,
     "known": "2026-08-14",
     "state": "已认领"
   },
@@ -24924,8 +24960,8 @@
     "thread": "C723300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1044,
+    "offered": 1158,
+    "accepted": 1174,
     "known": "2026-08-16",
     "state": "更正已认领"
   },
@@ -24946,15 +24982,6 @@
     "accepted": 490,
     "known": "2026-08-15",
     "state": "已认领"
-  },
-  {
-    "thread": "C730004",
-    "origin": "港口",
-    "destination": "滨海馆",
-    "offered": 492,
-    "accepted": null,
-    "known": "2026-08-15",
-    "state": "拒接"
   },
   {
     "thread": "C730100",
@@ -24993,11 +25020,20 @@
     "state": "拒接"
   },
   {
+    "thread": "C730208",
+    "origin": "港口",
+    "destination": "滨海馆",
+    "offered": 851,
+    "accepted": 855,
+    "known": "2026-08-13",
+    "state": "已认领"
+  },
+  {
     "thread": "C730300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-08-15",
     "state": "已认领"
   },
@@ -25068,8 +25104,8 @@
     "thread": "C731300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-08-15",
     "state": "已认领"
   },
@@ -25090,15 +25126,6 @@
     "accepted": null,
     "known": "2026-08-15",
     "state": "拒接"
-  },
-  {
-    "thread": "C732008",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 491,
-    "accepted": 495,
-    "known": "2026-08-13",
-    "state": "已认领"
   },
   {
     "thread": "C732100",
@@ -25137,20 +25164,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C732204",
-    "origin": "芦湾酒店",
-    "destination": "老城馆",
-    "offered": 852,
-    "accepted": null,
-    "known": "2026-08-15",
-    "state": "拒接"
-  },
-  {
     "thread": "C732300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-08-15",
     "state": "已认领"
   },
@@ -25180,6 +25198,15 @@
     "accepted": null,
     "known": "2026-08-15",
     "state": "拒接"
+  },
+  {
+    "thread": "C733008",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 491,
+    "accepted": 495,
+    "known": "2026-08-13",
+    "state": "已认领"
   },
   {
     "thread": "C733100",
@@ -25221,8 +25248,8 @@
     "thread": "C733300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1030,
+    "offered": 1158,
+    "accepted": 1160,
     "known": "2026-08-15",
     "state": "已认领"
   },
@@ -25338,8 +25365,8 @@
     "thread": "C740300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-08-16",
     "state": "已认领"
   },
@@ -25347,8 +25374,8 @@
     "thread": "C740300",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1028,
-    "accepted": 1044,
+    "offered": 1158,
+    "accepted": 1174,
     "known": "2026-08-18",
     "state": "更正已认领"
   },
@@ -25374,8 +25401,8 @@
     "thread": "C740312",
     "origin": "港口",
     "destination": "滨海馆",
-    "offered": 1030,
-    "accepted": 1033,
+    "offered": 1183,
+    "accepted": 1186,
     "known": "2026-08-14",
     "state": "已认领"
   },
@@ -25470,20 +25497,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C741212",
-    "origin": "滨海馆",
-    "destination": "芦湾酒店",
-    "offered": 850,
-    "accepted": 853,
-    "known": "2026-08-14",
-    "state": "已认领"
-  },
-  {
     "thread": "C741300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-08-16",
     "state": "已认领"
   },
@@ -25491,8 +25509,8 @@
     "thread": "C741300",
     "origin": "滨海馆",
     "destination": "芦湾酒店",
-    "offered": 1028,
-    "accepted": 1044,
+    "offered": 1158,
+    "accepted": 1174,
     "known": "2026-08-18",
     "state": "更正已认领"
   },
@@ -25538,6 +25556,15 @@
     "destination": "老城馆",
     "offered": 492,
     "accepted": 493,
+    "known": "2026-08-14",
+    "state": "已认领"
+  },
+  {
+    "thread": "C742008",
+    "origin": "芦湾酒店",
+    "destination": "老城馆",
+    "offered": 491,
+    "accepted": 496,
     "known": "2026-08-14",
     "state": "已认领"
   },
@@ -25617,8 +25644,8 @@
     "thread": "C742300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-08-16",
     "state": "已认领"
   },
@@ -25626,8 +25653,8 @@
     "thread": "C742300",
     "origin": "芦湾酒店",
     "destination": "老城馆",
-    "offered": 1028,
-    "accepted": 1044,
+    "offered": 1158,
+    "accepted": 1174,
     "known": "2026-08-18",
     "state": "更正已认领"
   },
@@ -25673,6 +25700,15 @@
     "destination": "港口",
     "offered": 492,
     "accepted": 493,
+    "known": "2026-08-14",
+    "state": "已认领"
+  },
+  {
+    "thread": "C743008",
+    "origin": "老城馆",
+    "destination": "港口",
+    "offered": 491,
+    "accepted": 496,
     "known": "2026-08-14",
     "state": "已认领"
   },
@@ -25740,20 +25776,11 @@
     "state": "已认领"
   },
   {
-    "thread": "C743212",
-    "origin": "老城馆",
-    "destination": "港口",
-    "offered": 850,
-    "accepted": 853,
-    "known": "2026-08-14",
-    "state": "已认领"
-  },
-  {
     "thread": "C743300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1031,
+    "offered": 1158,
+    "accepted": 1161,
     "known": "2026-08-16",
     "state": "已认领"
   },
@@ -25761,8 +25788,8 @@
     "thread": "C743300",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1028,
-    "accepted": 1044,
+    "offered": 1158,
+    "accepted": 1174,
     "known": "2026-08-18",
     "state": "更正已认领"
   },
@@ -25788,8 +25815,8 @@
     "thread": "C743312",
     "origin": "老城馆",
     "destination": "港口",
-    "offered": 1030,
-    "accepted": 1033,
+    "offered": 1183,
+    "accepted": 1186,
     "known": "2026-08-14",
     "state": "已认领"
   }
