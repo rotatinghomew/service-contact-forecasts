@@ -1,0 +1,292 @@
+{
+  "outcome_evidence": {
+    "counts": {
+      "departed": 798,
+      "callback": 523,
+      "answered": 7733,
+      "parked": 459
+    },
+    "answered": {
+      "n": 7733,
+      "observed_wait": 7733,
+      "mean_wait": 12.24440708651235,
+      "floor_max": 29,
+      "ceiling_max": 29
+    },
+    "departed": {
+      "n": 798,
+      "observed_wait": 0,
+      "mean_wait": null,
+      "floor_max": 29,
+      "ceiling_max": 195
+    },
+    "callback": {
+      "n": 523,
+      "observed_wait": 0,
+      "mean_wait": null,
+      "floor_max": 29,
+      "ceiling_max": 195
+    },
+    "parked": {
+      "n": 459,
+      "observed_wait": 0,
+      "mean_wait": null,
+      "floor_max": 29,
+      "ceiling_max": 195
+    },
+    "departed_mark_recorded": 198,
+    "departed_mark_missing": 600,
+    "parked_mark_recorded": 158,
+    "callback_next_morning": 523,
+    "callback_counted_as_evening_answer": 0
+  },
+  "identified_claims": [
+    {
+      "claim": "同一咨询在转交期间两站同时承担工作负荷",
+      "status": "可验证",
+      "evidence": "每笔已认领转交的 offered→accepted 区间都有记录，可与唯一旅客等待分开累加",
+      "record": "handoff_ack.accepted - handoff_ack.offered"
+    },
+    {
+      "claim": "旅客等待从首次进线起算，转接席从接单起算会低估",
+      "status": "可验证",
+      "evidence": "已答复转交的 answer-first 恒等于 8 + dwell + (answer-accepted)，三段均可见",
+      "record": "contacts.已答复.at - contacts.首入.at"
+    },
+    {
+      "claim": "首入晚的旅客可能先被答复（先到者被反复排到队尾）",
+      "status": "可验证",
+      "evidence": "已答复的同一 (日,时段,站,语言) 单元内可数出逆序对数",
+      "record": "同单元内 answer 次序 vs 首入次序"
+    },
+    {
+      "claim": "错过当晚窗口的次晨回拨只能算次日答复",
+      "status": "可验证",
+      "evidence": "次晨回拨 at 以翌日 08:00 为日基，且所有此类咨询都没有当晚已答复记录",
+      "record": "contacts.次晨回拨.known 与 window 日差"
+    },
+    {
+      "claim": "迟到认领更正改变了时限成败",
+      "status": "不可验证/否定",
+      "evidence": "32 笔更正全部来自未答复咨询，答复记录不存在，时限成败不受影响",
+      "record": "contacts 无 已答复 的 32 条 更正已认领 链"
+    },
+    {
+      "claim": "迟到认领更正的可回查范围：后续适用范围与归责",
+      "status": "按可见日分层",
+      "evidence": "更正行的 known 比首次通知晚 2-4 天；只改变此后可见的归属与适用，不回溯改写当晚的等待记录",
+      "record": "handoff_ack.known(更正) 与 contacts.首入.window 日差"
+    },
+    {
+      "claim": "迟到认领更正改变了负荷归属",
+      "status": "可验证",
+      "evidence": "更正把 dwell 从 1-3 分钟改为 16 分钟，归属分钟数改变，可回查",
+      "record": "handoff_ack.accepted(更正) - offered"
+    },
+    {
+      "claim": "切换规则后未服务旅客会像旧规则那样离队",
+      "status": "不可验证",
+      "evidence": "离队结局属于旧规则的观察，任何新规则下都不可直接沿用；只能保留删失区间",
+      "record": "contacts.已离队 仅描述旧规则"
+    },
+    {
+      "claim": "回放中未见过的等待段落在某个有据区间内",
+      "status": "区间可给",
+      "evidence": "未答复咨询的地板为最后记录标记，天花板为时段结束；门槛外的只能证否不能证是",
+      "record": "floor = max(已离队/待回拨 at) ；ceiling = slot end"
+    },
+    {
+      "claim": "区域规则改善的本区等待不是靠外语或偏远站延误换来的",
+      "status": "需按站/语言核对",
+      "evidence": "配对回放可给出每站每语言的 B-A 差与更长/更短人数",
+      "record": "analysis.replay.paired.by_origin / by_skill"
+    }
+  ],
+  "unseen": {
+    "n": 1780,
+    "floor": {
+      "min": 0,
+      "median": 0.0,
+      "max": 29,
+      "mean": 6.112359550561798
+    },
+    "ceiling": {
+      "min": 35,
+      "median": 195.0,
+      "max": 195,
+      "mean": 157.51348314606741
+    },
+    "with_provable_mark": 578,
+    "without_mark": 1202
+  },
+  "cost": {
+    "by_cap": {
+      "18": {
+        "paired_consults": 1266,
+        "b_longer": 133,
+        "b_shorter": 147,
+        "b_only_served": 32,
+        "a_only_served": 44
+      },
+      "22": {
+        "paired_consults": 1266,
+        "b_longer": 133,
+        "b_shorter": 147,
+        "b_only_served": 32,
+        "a_only_served": 44
+      },
+      "25": {
+        "paired_consults": 1266,
+        "b_longer": 133,
+        "b_shorter": 147,
+        "b_only_served": 32,
+        "a_only_served": 44
+      }
+    },
+    "origin_most_worse_off": {
+      "site": "老城馆",
+      "consults": 412,
+      "served_a": 333,
+      "served_b": 317,
+      "mean_a": 12.798722044728434,
+      "mean_b": 14.8370607028754,
+      "mean_diff": 2.038338658146965,
+      "b_longer": 60,
+      "b_shorter": 13,
+      "b_equal": 240
+    },
+    "origin_improved": [
+      "港口"
+    ],
+    "origin_worsened": [
+      "滨海馆",
+      "老城馆",
+      "芦湾酒店"
+    ],
+    "skill_improved": [
+      "粤语"
+    ],
+    "skill_worsened": [
+      "普通话",
+      "英语"
+    ],
+    "verdict": "区域规则并非整体更快：配对样本里 B 更长与更短都存在，且改善集中在部分站/语言，代价由另一些站/语言承担。"
+  },
+  "cap_uncertainty": {
+    "18": {
+      "straddling_classes": [],
+      "comparison_only": false
+    },
+    "22": {
+      "straddling_classes": [
+        {
+          "class": "skill:英语",
+          "n": 543,
+          "a_share_ci": [
+            0.806555660121502,
+            0.8682285831869279
+          ],
+          "b_share_ci": [
+            0.792797687735819,
+            0.8563849853657869
+          ]
+        },
+        {
+          "class": "origin:港口",
+          "n": 398,
+          "a_share_ci": [
+            0.6803140322947666,
+            0.7676238199324669
+          ],
+          "b_share_ci": [
+            0.7223332147223749,
+            0.8052380334563669
+          ]
+        }
+      ],
+      "comparison_only": true
+    },
+    "25": {
+      "straddling_classes": [
+        {
+          "class": "origin:港口",
+          "n": 398,
+          "a_share_ci": [
+            0.7382184980197118,
+            0.8192152736408455
+          ],
+          "b_share_ci": [
+            0.7755965646077463,
+            0.8515164285103807
+          ]
+        },
+        {
+          "class": "origin:滨海馆",
+          "n": 404,
+          "a_share_ci": [
+            0.7211225770627451,
+            0.8035911208011207
+          ],
+          "b_share_ci": [
+            0.7237238134519064,
+            0.8058937507471358
+          ]
+        }
+      ],
+      "comparison_only": true
+    },
+    "27": {
+      "straddling_classes": [
+        {
+          "class": "origin:港口",
+          "n": 398,
+          "a_share_ci": [
+            0.7595204896863572,
+            0.837729979949954
+          ],
+          "b_share_ci": [
+            0.7836693465555982,
+            0.8583749083034364
+          ]
+        },
+        {
+          "class": "origin:滨海馆",
+          "n": 404,
+          "a_share_ci": [
+            0.7524705947656601,
+            0.8310894991203216
+          ],
+          "b_share_ci": [
+            0.755096695049901,
+            0.8333672651712571
+          ]
+        },
+        {
+          "class": "origin:芦湾酒店",
+          "n": 406,
+          "a_share_ci": [
+            0.7276329032867755,
+            0.8091600327745078
+          ],
+          "b_share_ci": [
+            0.7121153866784822,
+            0.7953979346885494
+          ]
+        },
+        {
+          "class": "origin:老城馆",
+          "n": 412,
+          "a_share_ci": [
+            0.7340341464244513,
+            0.8142517331186725
+          ],
+          "b_share_ci": [
+            0.6807115602386237,
+            0.7665742888623458
+          ]
+        }
+      ],
+      "comparison_only": true
+    }
+  }
+}

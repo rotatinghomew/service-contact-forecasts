@@ -13,3 +13,13 @@ python3 -m unittest discover -s tests -v
 ```
 
 资料检查覆盖文件可读性、字段与明确的单列引用。业务原始记录允许保留冲突、未决关系及尚未到达的观察。
+
+## 分析
+
+业务口径与结论见 [ANALYSIS.md](ANALYSIS.md)。重算全部指标并写出 `outputs/`：
+
+```sh
+python3 scripts/run_analysis.py --print
+```
+
+`tests/` 除了原有的资料契约检查，还有业务不变量（一个旅客一次时钟、等待分解可加、双席占用不重复计入、删失只给区间、借班与班表核对、切换不重启时限等），共 38 项。

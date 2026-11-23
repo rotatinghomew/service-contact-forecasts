@@ -1,0 +1,926 @@
+{
+  "chain_summary": {
+    "n": 9513,
+    "n_unseen": 1780,
+    "mean": 12.24440708651235,
+    "median": 13.0,
+    "p90": 24.0,
+    "minimum": 3,
+    "maximum": 29
+  },
+  "by_skill": {
+    "普通话": {
+      "n": 3956,
+      "n_unseen": 1644,
+      "mean": 13.31704152249135,
+      "median": 14.0,
+      "p90": 23.0,
+      "minimum": 4,
+      "maximum": 29
+    },
+    "粤语": {
+      "n": 2364,
+      "n_unseen": 41,
+      "mean": 11.845888936719758,
+      "median": 4.0,
+      "p90": 25.0,
+      "minimum": 3,
+      "maximum": 29
+    },
+    "英语": {
+      "n": 3193,
+      "n_unseen": 95,
+      "mean": 11.742737249838605,
+      "median": 5.0,
+      "p90": 25.0,
+      "minimum": 3,
+      "maximum": 29
+    }
+  },
+  "by_site": {
+    "港口": {
+      "n": 2373,
+      "n_unseen": 453,
+      "mean": 12.1953125,
+      "median": 13.0,
+      "p90": 24.0,
+      "minimum": 3,
+      "maximum": 29
+    },
+    "滨海馆": {
+      "n": 2388,
+      "n_unseen": 430,
+      "mean": 12.40194075587334,
+      "median": 13.0,
+      "p90": 24.0,
+      "minimum": 3,
+      "maximum": 29
+    },
+    "老城馆": {
+      "n": 2374,
+      "n_unseen": 446,
+      "mean": 12.200207468879668,
+      "median": 12.0,
+      "p90": 24.0,
+      "minimum": 3,
+      "maximum": 29
+    },
+    "芦湾酒店": {
+      "n": 2378,
+      "n_unseen": 451,
+      "mean": 12.177477944992216,
+      "median": 12.0,
+      "p90": 24.0,
+      "minimum": 3,
+      "maximum": 29
+    }
+  },
+  "by_slot": {
+    "0": {
+      "n": 2100,
+      "n_unseen": 365,
+      "mean": 10.764841498559077,
+      "median": 5.0,
+      "p90": 22.0,
+      "minimum": 3,
+      "maximum": 29
+    },
+    "1": {
+      "n": 2076,
+      "n_unseen": 355,
+      "mean": 10.739686228936664,
+      "median": 5.0,
+      "p90": 23.0,
+      "minimum": 3,
+      "maximum": 29
+    },
+    "2": {
+      "n": 2656,
+      "n_unseen": 437,
+      "mean": 13.420459666516448,
+      "median": 15.0,
+      "p90": 25.0,
+      "minimum": 3,
+      "maximum": 29
+    },
+    "3": {
+      "n": 2681,
+      "n_unseen": 623,
+      "mean": 13.482021379980564,
+      "median": 15.0,
+      "p90": 25.0,
+      "minimum": 3,
+      "maximum": 29
+    }
+  },
+  "by_site_skill": [
+    {
+      "site": "港口",
+      "skill": "普通话",
+      "demand": 717,
+      "answered": 315,
+      "mean": 14.898412698412699,
+      "median": 15.0,
+      "p90": 17.0,
+      "max": 29,
+      "transfers": 717,
+      "bands": {
+        "0-5": 0,
+        "6-10": 26,
+        "11-15": 168,
+        "16-20": 97,
+        "21-25": 16,
+        "26-29": 8,
+        "30+": 0
+      },
+      "within_cap_answered": {
+        "18": 288,
+        "22": 298,
+        "25": 307,
+        "27": 308
+      },
+      "share_of_demand": {
+        "18": 0.401673640167364,
+        "22": 0.41562064156206413,
+        "25": 0.4281729428172943,
+        "27": 0.4295676429567643
+      },
+      "share_of_answered": {
+        "18": 0.9142857142857143,
+        "22": 0.946031746031746,
+        "25": 0.9746031746031746,
+        "27": 0.9777777777777777
+      },
+      "definite_failures_unseen": {
+        "18": 65,
+        "22": 29,
+        "25": 14,
+        "27": 8
+      },
+      "unseen": 402
+    },
+    {
+      "site": "港口",
+      "skill": "粤语",
+      "demand": 548,
+      "answered": 529,
+      "mean": 11.425330812854442,
+      "median": 4.0,
+      "p90": 25.0,
+      "max": 29,
+      "transfers": 0,
+      "bands": {
+        "0-5": 294,
+        "6-10": 0,
+        "11-15": 32,
+        "16-20": 82,
+        "21-25": 78,
+        "26-29": 43,
+        "30+": 0
+      },
+      "within_cap_answered": {
+        "18": 372,
+        "22": 441,
+        "25": 486,
+        "27": 513
+      },
+      "share_of_demand": {
+        "18": 0.6788321167883211,
+        "22": 0.8047445255474452,
+        "25": 0.8868613138686131,
+        "27": 0.9361313868613139
+      },
+      "share_of_answered": {
+        "18": 0.7032136105860114,
+        "22": 0.833648393194707,
+        "25": 0.9187145557655955,
+        "27": 0.9697542533081286
+      },
+      "definite_failures_unseen": {
+        "18": 9,
+        "22": 5,
+        "25": 2,
+        "27": 0
+      },
+      "unseen": 19
+    },
+    {
+      "site": "港口",
+      "skill": "英语",
+      "demand": 1108,
+      "answered": 1076,
+      "mean": 11.782527881040892,
+      "median": 5.0,
+      "p90": 25.0,
+      "max": 29,
+      "transfers": 0,
+      "bands": {
+        "0-5": 575,
+        "6-10": 0,
+        "11-15": 61,
+        "16-20": 181,
+        "21-25": 180,
+        "26-29": 79,
+        "30+": 0
+      },
+      "within_cap_answered": {
+        "18": 748,
+        "22": 888,
+        "25": 997,
+        "27": 1036
+      },
+      "share_of_demand": {
+        "18": 0.6750902527075813,
+        "22": 0.8014440433212996,
+        "25": 0.8998194945848376,
+        "27": 0.9350180505415162
+      },
+      "share_of_answered": {
+        "18": 0.6951672862453532,
+        "22": 0.8252788104089219,
+        "25": 0.9265799256505576,
+        "27": 0.9628252788104089
+      },
+      "definite_failures_unseen": {
+        "18": 8,
+        "22": 4,
+        "25": 0,
+        "27": 0
+      },
+      "unseen": 32
+    },
+    {
+      "site": "滨海馆",
+      "skill": "普通话",
+      "demand": 702,
+      "answered": 308,
+      "mean": 14.727272727272727,
+      "median": 15.0,
+      "p90": 17.0,
+      "max": 28,
+      "transfers": 702,
+      "bands": {
+        "0-5": 0,
+        "6-10": 26,
+        "11-15": 166,
+        "16-20": 96,
+        "21-25": 16,
+        "26-29": 4,
+        "30+": 0
+      },
+      "within_cap_answered": {
+        "18": 286,
+        "22": 293,
+        "25": 304,
+        "27": 306
+      },
+      "share_of_demand": {
+        "18": 0.4074074074074074,
+        "22": 0.41737891737891736,
+        "25": 0.43304843304843305,
+        "27": 0.4358974358974359
+      },
+      "share_of_answered": {
+        "18": 0.9285714285714286,
+        "22": 0.9512987012987013,
+        "25": 0.987012987012987,
+        "27": 0.9935064935064936
+      },
+      "definite_failures_unseen": {
+        "18": 56,
+        "22": 30,
+        "25": 10,
+        "27": 4
+      },
+      "unseen": 394
+    },
+    {
+      "site": "滨海馆",
+      "skill": "粤语",
+      "demand": 562,
+      "answered": 550,
+      "mean": 11.794545454545455,
+      "median": 4.0,
+      "p90": 25.0,
+      "max": 29,
+      "transfers": 0,
+      "bands": {
+        "0-5": 294,
+        "6-10": 0,
+        "11-15": 44,
+        "16-20": 79,
+        "21-25": 81,
+        "26-29": 52,
+        "30+": 0
+      },
+      "within_cap_answered": {
+        "18": 387,
+        "22": 450,
+        "25": 498,
+        "27": 523
+      },
+      "share_of_demand": {
+        "18": 0.6886120996441281,
+        "22": 0.800711743772242,
+        "25": 0.8861209964412812,
+        "27": 0.9306049822064056
+      },
+      "share_of_answered": {
+        "18": 0.7036363636363636,
+        "22": 0.8181818181818182,
+        "25": 0.9054545454545454,
+        "27": 0.9509090909090909
+      },
+      "definite_failures_unseen": {
+        "18": 9,
+        "22": 2,
+        "25": 0,
+        "27": 0
+      },
+      "unseen": 12
+    },
+    {
+      "site": "滨海馆",
+      "skill": "英语",
+      "demand": 1124,
+      "answered": 1100,
+      "mean": 12.054545454545455,
+      "median": 5.0,
+      "p90": 25.0,
+      "max": 29,
+      "transfers": 0,
+      "bands": {
+        "0-5": 572,
+        "6-10": 0,
+        "11-15": 61,
+        "16-20": 186,
+        "21-25": 204,
+        "26-29": 77,
+        "30+": 0
+      },
+      "within_cap_answered": {
+        "18": 748,
+        "22": 887,
+        "25": 1023,
+        "27": 1068
+      },
+      "share_of_demand": {
+        "18": 0.6654804270462633,
+        "22": 0.7891459074733096,
+        "25": 0.9101423487544484,
+        "27": 0.9501779359430605
+      },
+      "share_of_answered": {
+        "18": 0.68,
+        "22": 0.8063636363636364,
+        "25": 0.93,
+        "27": 0.9709090909090909
+      },
+      "definite_failures_unseen": {
+        "18": 3,
+        "22": 2,
+        "25": 2,
+        "27": 1
+      },
+      "unseen": 24
+    },
+    {
+      "site": "老城馆",
+      "skill": "普通话",
+      "demand": 1263,
+      "answered": 842,
+      "mean": 12.717339667458432,
+      "median": 14.0,
+      "p90": 24.0,
+      "max": 29,
+      "transfers": 707,
+      "bands": {
+        "0-5": 295,
+        "6-10": 27,
+        "11-15": 195,
+        "16-20": 186,
+        "21-25": 89,
+        "26-29": 50,
+        "30+": 0
+      },
+      "within_cap_answered": {
+        "18": 659,
+        "22": 738,
+        "25": 792,
+        "27": 814
+      },
+      "share_of_demand": {
+        "18": 0.5217735550277118,
+        "22": 0.5843230403800475,
+        "25": 0.6270783847980997,
+        "27": 0.6444972288202692
+      },
+      "share_of_answered": {
+        "18": 0.7826603325415677,
+        "22": 0.8764845605700713,
+        "25": 0.9406175771971497,
+        "27": 0.9667458432304038
+      },
+      "definite_failures_unseen": {
+        "18": 83,
+        "22": 45,
+        "25": 23,
+        "27": 11
+      },
+      "unseen": 421
+    },
+    {
+      "site": "老城馆",
+      "skill": "粤语",
+      "demand": 627,
+      "answered": 622,
+      "mean": 12.12540192926045,
+      "median": 12.0,
+      "p90": 25.0,
+      "max": 29,
+      "transfers": 0,
+      "bands": {
+        "0-5": 299,
+        "6-10": 0,
+        "11-15": 42,
+        "16-20": 121,
+        "21-25": 112,
+        "26-29": 48,
+        "30+": 0
+      },
+      "within_cap_answered": {
+        "18": 418,
+        "22": 504,
+        "25": 574,
+        "27": 595
+      },
+      "share_of_demand": {
+        "18": 0.6666666666666666,
+        "22": 0.8038277511961722,
+        "25": 0.9154704944178629,
+        "27": 0.94896331738437
+      },
+      "share_of_answered": {
+        "18": 0.6720257234726688,
+        "22": 0.8102893890675241,
+        "25": 0.9228295819935691,
+        "27": 0.9565916398713826
+      },
+      "definite_failures_unseen": {
+        "18": 4,
+        "22": 3,
+        "25": 2,
+        "27": 2
+      },
+      "unseen": 5
+    },
+    {
+      "site": "老城馆",
+      "skill": "英语",
+      "demand": 484,
+      "answered": 464,
+      "mean": 11.362068965517242,
+      "median": 5.0,
+      "p90": 24.0,
+      "max": 29,
+      "transfers": 0,
+      "bands": {
+        "0-5": 275,
+        "6-10": 0,
+        "11-15": 19,
+        "16-20": 80,
+        "21-25": 62,
+        "26-29": 28,
+        "30+": 0
+      },
+      "within_cap_answered": {
+        "18": 339,
+        "22": 399,
+        "25": 436,
+        "27": 451
+      },
+      "share_of_demand": {
+        "18": 0.7004132231404959,
+        "22": 0.8243801652892562,
+        "25": 0.9008264462809917,
+        "27": 0.9318181818181818
+      },
+      "share_of_answered": {
+        "18": 0.7306034482758621,
+        "22": 0.8599137931034483,
+        "25": 0.9396551724137931,
+        "27": 0.9719827586206896
+      },
+      "definite_failures_unseen": {
+        "18": 0,
+        "22": 0,
+        "25": 0,
+        "27": 0
+      },
+      "unseen": 20
+    },
+    {
+      "site": "芦湾酒店",
+      "skill": "普通话",
+      "demand": 1274,
+      "answered": 847,
+      "mean": 12.81227863046045,
+      "median": 14.0,
+      "p90": 23.0,
+      "max": 29,
+      "transfers": 711,
+      "bands": {
+        "0-5": 294,
+        "6-10": 27,
+        "11-15": 200,
+        "16-20": 176,
+        "21-25": 102,
+        "26-29": 48,
+        "30+": 0
+      },
+      "within_cap_answered": {
+        "18": 652,
+        "22": 735,
+        "25": 799,
+        "27": 823
+      },
+      "share_of_demand": {
+        "18": 0.5117739403453689,
+        "22": 0.5769230769230769,
+        "25": 0.6271585557299842,
+        "27": 0.6459968602825745
+      },
+      "share_of_answered": {
+        "18": 0.7697756788665879,
+        "22": 0.8677685950413223,
+        "25": 0.9433293978748524,
+        "27": 0.9716646989374262
+      },
+      "definite_failures_unseen": {
+        "18": 98,
+        "22": 51,
+        "25": 27,
+        "27": 13
+      },
+      "unseen": 427
+    },
+    {
+      "site": "芦湾酒店",
+      "skill": "粤语",
+      "demand": 627,
+      "answered": 622,
+      "mean": 11.969453376205788,
+      "median": 12.0,
+      "p90": 25.0,
+      "max": 29,
+      "transfers": 0,
+      "bands": {
+        "0-5": 300,
+        "6-10": 0,
+        "11-15": 54,
+        "16-20": 106,
+        "21-25": 115,
+        "26-29": 47,
+        "30+": 0
+      },
+      "within_cap_answered": {
+        "18": 421,
+        "22": 511,
+        "25": 575,
+        "27": 595
+      },
+      "share_of_demand": {
+        "18": 0.671451355661882,
+        "22": 0.8149920255183413,
+        "25": 0.9170653907496013,
+        "27": 0.94896331738437
+      },
+      "share_of_answered": {
+        "18": 0.6768488745980707,
+        "22": 0.8215434083601286,
+        "25": 0.9244372990353698,
+        "27": 0.9565916398713826
+      },
+      "definite_failures_unseen": {
+        "18": 5,
+        "22": 3,
+        "25": 3,
+        "27": 2
+      },
+      "unseen": 5
+    },
+    {
+      "site": "芦湾酒店",
+      "skill": "英语",
+      "demand": 477,
+      "answered": 458,
+      "mean": 11.286026200873362,
+      "median": 5.0,
+      "p90": 25.0,
+      "max": 29,
+      "transfers": 0,
+      "bands": {
+        "0-5": 275,
+        "6-10": 0,
+        "11-15": 24,
+        "16-20": 65,
+        "21-25": 64,
+        "26-29": 30,
+        "30+": 0
+      },
+      "within_cap_answered": {
+        "18": 343,
+        "22": 388,
+        "25": 428,
+        "27": 443
+      },
+      "share_of_demand": {
+        "18": 0.7190775681341719,
+        "22": 0.8134171907756813,
+        "25": 0.8972746331236897,
+        "27": 0.9287211740041929
+      },
+      "share_of_answered": {
+        "18": 0.7489082969432315,
+        "22": 0.8471615720524017,
+        "25": 0.9344978165938864,
+        "27": 0.9672489082969432
+      },
+      "definite_failures_unseen": {
+        "18": 0,
+        "22": 0,
+        "25": 0,
+        "27": 0
+      },
+      "unseen": 19
+    }
+  ],
+  "by_transfer": {
+    "transfer": {
+      "n": 2837,
+      "n_unseen": 1616,
+      "mean": 14.638820638820638,
+      "median": 14.0,
+      "p90": 17.0,
+      "minimum": 9,
+      "maximum": 29
+    },
+    "direct": {
+      "n": 6676,
+      "n_unseen": 164,
+      "mean": 11.795454545454545,
+      "median": 5.0,
+      "p90": 25.0,
+      "minimum": 3,
+      "maximum": 29
+    }
+  },
+  "chain_slices": {
+    "answered": 7733,
+    "chain": 94686.0,
+    "direct_at_origin": 76812.0,
+    "origin_before_offer": 9768.0,
+    "dwell_dual": 3824.0,
+    "destination_after_claim": 4014.0,
+    "origin_resume": 268.0,
+    "components_sum": 94686.0
+  },
+  "dual_occupancy": {
+    "consults": 2569,
+    "seat_minutes_per_side": 8952,
+    "mean": 3.4846243674581547,
+    "matched_both_sites": 2569,
+    "max": 6,
+    "dual_seat_minutes_all_sites": 17904
+  },
+  "stations": [
+    {
+      "site": "港口",
+      "consults_entered": 2373,
+      "direct": 1656,
+      "offered_out": 717,
+      "claimed_in": 638,
+      "answered_here": 1903,
+      "own_wait_mean": 11.664797507788162,
+      "inbound_service_mean": 3.4981412639405205,
+      "dwell_held_mean": 3.462249614791988
+    },
+    {
+      "site": "滨海馆",
+      "consults_entered": 2388,
+      "direct": 1686,
+      "offered_out": 702,
+      "claimed_in": 649,
+      "answered_here": 1966,
+      "own_wait_mean": 11.967878787878789,
+      "inbound_service_mean": 3.972027972027972,
+      "dwell_held_mean": 3.493710691823899
+    },
+    {
+      "site": "老城馆",
+      "consults_entered": 2374,
+      "direct": 1667,
+      "offered_out": 707,
+      "claimed_in": 646,
+      "answered_here": 1928,
+      "own_wait_mean": 11.769514443761524,
+      "inbound_service_mean": 3.3977695167286246,
+      "dwell_held_mean": 3.476489028213166
+    },
+    {
+      "site": "芦湾酒店",
+      "consults_entered": 2378,
+      "direct": 1667,
+      "offered_out": 711,
+      "claimed_in": 636,
+      "answered_here": 1936,
+      "own_wait_mean": 11.775460122699387,
+      "inbound_service_mean": 3.679856115107914,
+      "dwell_held_mean": 3.5061919504643964
+    }
+  ],
+  "region_reconciliation": {
+    "per_site": {
+      "港口": {
+        "held_direct": 18722,
+        "held_before_offer": 2520,
+        "held_resume": 56,
+        "held_at_own_site": 21298,
+        "held_after_claim": 941,
+        "shared_dwell": 981,
+        "consults_entered": 2373,
+        "consults_answered_here": 1903
+      },
+      "滨海馆": {
+        "held_direct": 19747,
+        "held_before_offer": 2464,
+        "held_resume": 82,
+        "held_at_own_site": 22293,
+        "held_after_claim": 1136,
+        "shared_dwell": 967,
+        "consults_entered": 2388,
+        "consults_answered_here": 1966
+      },
+      "老城馆": {
+        "held_direct": 19149,
+        "held_before_offer": 2408,
+        "held_resume": 95,
+        "held_at_own_site": 21652,
+        "held_after_claim": 914,
+        "shared_dwell": 929,
+        "consults_entered": 2374,
+        "consults_answered_here": 1928
+      },
+      "芦湾酒店": {
+        "held_direct": 19194,
+        "held_before_offer": 2376,
+        "held_resume": 35,
+        "held_at_own_site": 21605,
+        "held_after_claim": 1023,
+        "shared_dwell": 947,
+        "consults_entered": 2378,
+        "consults_answered_here": 1936
+      }
+    },
+    "site_held_total": 86848,
+    "destination_after_claim_total": 4014,
+    "shared_dwell_total": 3824,
+    "sum_of_layers": 94686,
+    "observed_chain_wait": 94686,
+    "balances": true,
+    "unattributed": {
+      "consults": 1780,
+      "floor_minutes": 10880,
+      "ceiling_minutes": 280374,
+      "note": "未答复部分只给区间，不并入上面的已观察总额"
+    }
+  },
+  "flows": [
+    {
+      "origin": "港口",
+      "destination": "滨海馆",
+      "consults": 717,
+      "claimed": 649,
+      "answered": 315,
+      "answer_rate": 0.4393305439330544,
+      "chain_wait_mean": 14.898412698412699,
+      "chain_wait_median": 15.0,
+      "dwell_mean": 3.462249614791988,
+      "dest_service_mean": 3.972027972027972
+    },
+    {
+      "origin": "滨海馆",
+      "destination": "芦湾酒店",
+      "consults": 702,
+      "claimed": 636,
+      "answered": 308,
+      "answer_rate": 0.43874643874643876,
+      "chain_wait_mean": 14.727272727272727,
+      "chain_wait_median": 15.0,
+      "dwell_mean": 3.493710691823899,
+      "dest_service_mean": 3.679856115107914
+    },
+    {
+      "origin": "老城馆",
+      "destination": "港口",
+      "consults": 707,
+      "claimed": 638,
+      "answered": 301,
+      "answer_rate": 0.42574257425742573,
+      "chain_wait_mean": 14.528239202657808,
+      "chain_wait_median": 14.0,
+      "dwell_mean": 3.476489028213166,
+      "dest_service_mean": 3.4981412639405205
+    },
+    {
+      "origin": "芦湾酒店",
+      "destination": "老城馆",
+      "consults": 711,
+      "claimed": 646,
+      "answered": 297,
+      "answer_rate": 0.4177215189873418,
+      "chain_wait_mean": 14.383838383838384,
+      "chain_wait_median": 14.0,
+      "dwell_mean": 3.5061919504643964,
+      "dest_service_mean": 3.3977695167286246
+    }
+  ],
+  "queue": {
+    "cells": 3507,
+    "answered_pairs": 7267,
+    "inversions": 3467,
+    "inversion_rate": 0.4770882069629834,
+    "answered_in_first_entry_order": 1885,
+    "first_arrival_wait_mean": 14.95808383233533,
+    "first_arrival_wait_median": 16.0,
+    "rank_overtaken_mean": {
+      "0": 0.8100940975192472,
+      "1": 0.07818411097099622,
+      "2": 0.21848013816925735,
+      "3": 0.3076923076923077,
+      "4": 0.20567375886524822,
+      "5": 0.3132530120481928
+    }
+  },
+  "censoring": {
+    "total": 9513,
+    "by_outcome": {
+      "departed": 798,
+      "callback": 523,
+      "answered": 7733,
+      "parked": 459
+    },
+    "unresolved": 1780,
+    "unresolved_by_outcome": {
+      "departed": 798,
+      "callback": 523,
+      "parked": 459
+    },
+    "floors": {
+      "mean": 6.112359550561798,
+      "max": 29,
+      "with_recorded_mark": 578,
+      "without_recorded_mark": 1202
+    },
+    "ceiling_min": 35,
+    "ceiling_max": 195,
+    "per_cap": {
+      "18": {
+        "definitely_over": 340,
+        "undecided": 1440,
+        "provably_within": 0
+      },
+      "22": {
+        "definitely_over": 174,
+        "undecided": 1606,
+        "provably_within": 0
+      },
+      "25": {
+        "definitely_over": 83,
+        "undecided": 1697,
+        "provably_within": 0
+      },
+      "27": {
+        "definitely_over": 41,
+        "undecided": 1739,
+        "provably_within": 0
+      }
+    },
+    "callback_consults": 523,
+    "callback_next_morning_base": 523,
+    "callback_with_evening_answer": 0,
+    "departed_still_demand": 798,
+    "departed_with_unrecorded_time": 600,
+    "parked_still_demand": 459
+  },
+  "bands": {
+    "未见答复": 1780,
+    "16-20": 1455,
+    "11-15": 1066,
+    "0-5": 3473,
+    "21-25": 1119,
+    "26-29": 514,
+    "6-10": 106
+  },
+  "answered": 7733
+}

@@ -1,0 +1,106 @@
+{
+  "assessments": [
+    {
+      "scope": "港口",
+      "skill": "英语",
+      "slot": 3,
+      "cap": 22,
+      "goal": 0.85,
+      "demand": 383,
+      "answered": 351,
+      "compliant_answered": 275,
+      "share_among_answered": 0.7834757834757835,
+      "share_of_demand": 0.7180156657963447,
+      "share_of_demand_ci": [
+        0.670958937969019,
+        0.7607424637088364
+      ],
+      "definite_failures": 4,
+      "undecided": 28,
+      "unproven_at_goal": true,
+      "proven_at_goal": false,
+      "verdict": "已证不达标"
+    },
+    {
+      "scope": "芦湾酒店",
+      "skill": "粤语",
+      "slot": 3,
+      "cap": 25,
+      "goal": 0.9,
+      "demand": 168,
+      "answered": 163,
+      "compliant_answered": 143,
+      "share_among_answered": 0.8773006134969326,
+      "share_of_demand": 0.8511904761904762,
+      "share_of_demand_ci": [
+        0.7895513119940527,
+        0.897128147141159
+      ],
+      "definite_failures": 3,
+      "undecided": 2,
+      "unproven_at_goal": true,
+      "proven_at_goal": false,
+      "verdict": "已证不达标"
+    },
+    {
+      "scope": "老城馆",
+      "skill": "普通话",
+      "slot": 2,
+      "cap": 27,
+      "goal": 0.9,
+      "demand": 330,
+      "answered": 230,
+      "compliant_answered": 220,
+      "share_among_answered": 0.9565217391304348,
+      "share_of_demand": 0.6666666666666666,
+      "share_of_demand_ci": [
+        0.6141449815899135,
+        0.71535273983923
+      ],
+      "definite_failures": 5,
+      "undecided": 95,
+      "unproven_at_goal": true,
+      "proven_at_goal": false,
+      "verdict": "已证不达标"
+    },
+    {
+      "scope": "全区",
+      "skill": "英语",
+      "slot": 2,
+      "cap": 18,
+      "goal": 0.8,
+      "demand": 944,
+      "answered": 944,
+      "compliant_answered": 604,
+      "share_among_answered": 0.6398305084745762,
+      "share_of_demand": 0.6398305084745762,
+      "share_of_demand_ci": [
+        0.6086976400343866,
+        0.6698299528907732
+      ],
+      "definite_failures": 0,
+      "undecided": 0,
+      "unproven_at_goal": true,
+      "proven_at_goal": false,
+      "verdict": "已证不达标"
+    }
+  ],
+  "cell_wait_decomposition": {
+    "cells": 3507,
+    "short_wait": {
+      "transfer": 0,
+      "direct": 3473
+    },
+    "long_wait": {
+      "transfer": 772,
+      "direct": 2860
+    },
+    "n": {
+      "transfer": 1221,
+      "direct": 6512
+    },
+    "first_arrival_wait_mean": 14.95808383233533,
+    "first_arrival_wait_median": 16
+  },
+  "note": "share_of_demand counts every first entry (answered, departed, parked and next-morning callback); share_among_answered is shown only to expose the survivor bias it creates."
+}
